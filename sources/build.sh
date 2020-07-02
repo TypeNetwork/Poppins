@@ -1,20 +1,28 @@
 #!/bin/sh
 set -e
 
+# Go the sources directory to run commands
+SOURCE="${BASH_SOURCE[0]}"
+DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
+cd $DIR
+echo $(pwd)
+
+rm -rf master_ufo/ instance_ufo/ instance_ufos/*
+rm -rf ../fonts
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
-mkdir -p ../fonts/otf
+# mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/vf
-fontmake -m Poppins.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Poppins.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Poppins-Italics.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Poppins-Italics.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Poppins-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Poppins-Roman.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Poppins-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Poppins-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m Poppins.designspace -o variable --output-path ../fonts/vf/Poppins[wght].ttf
-fontmake -m Poppins-Italics.designspace -o variable --output-path ../fonts/vf/Poppins-Italic[wght].ttf
+fontmake -m Poppins-Roman.designspace -o variable --output-path ../fonts/vf/Poppins[wght].ttf
+fontmake -m Poppins-Italic.designspace -o variable --output-path ../fonts/vf/Poppins-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
