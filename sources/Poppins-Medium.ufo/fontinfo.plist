@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>740</integer>
+    <integer>1135</integer>
     <key>capHeight</key>
     <integer>695</integer>
     <key>descender</key>
-    <integer>-262</integer>
+    <integer>-627</integer>
     <key>familyName</key>
     <string>Poppins</string>
     <key>guidelines</key>
