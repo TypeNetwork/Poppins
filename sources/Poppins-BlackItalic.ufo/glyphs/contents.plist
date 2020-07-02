@@ -2078,5 +2078,7 @@
     <string>zdotaccent.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zerowidthjoiner</key>
+    <string>zerowidthjoiner.glif</string>
   </dict>
 </plist>

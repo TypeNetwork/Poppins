@@ -106259,6 +106259,8 @@
       <string>uni00B2</string>
       <key>ytilde</key>
       <string>uni1EF9</string>
+      <key>zerowidthjoiner</key>
+      <string>uni200D</string>
     </dict>
   </dict>
 </plist>
