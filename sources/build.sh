@@ -14,15 +14,15 @@ echo "Generating Static fonts"
 mkdir -p ../fonts
 # mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
-mkdir -p ../fonts/vf
+mkdir -p ../fonts/variable
 fontmake -m Poppins-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
 # fontmake -m Poppins-Roman.designspace -i -o otf --output-dir ../fonts/otf/
 fontmake -m Poppins-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
 # fontmake -m Poppins-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m Poppins-Roman.designspace -o variable --output-path ../fonts/vf/Poppins[wght].ttf
-fontmake -m Poppins-Italic.designspace -o variable --output-path ../fonts/vf/Poppins-Italic[wght].ttf
+fontmake -m Poppins-Roman.designspace -o variable --output-path ../fonts/variable/Poppins[wght].ttf
+fontmake -m Poppins-Italic.designspace -o variable --output-path ../fonts/variable/Poppins-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
@@ -36,7 +36,7 @@ do
 	#mv "$ttf.fix" $ttf;
 done
 
-vfs=$(ls ../fonts/vf/*.ttf)
+vfs=$(ls ../fonts/variable/*.ttf)
 echo vfs
 echo "Post processing VFs"
 for vf in $vfs
@@ -58,7 +58,7 @@ for vf in $vfs
 do
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/vf/$rtrip.ttx;
+	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
@@ -77,9 +77,9 @@ do
 	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $ttf; fi
 done
 
-rm -f ../fonts/vf/*.ttx
+rm -f ../fonts/variable/*.ttx
 rm -f ../fonts/ttf/*.ttx
-rm -f ../fonts/vf/*gasp.ttf
+rm -f ../fonts/variable/*gasp.ttf
 rm -f ../fonts/ttf/*gasp.ttf
 
 echo "Done"
