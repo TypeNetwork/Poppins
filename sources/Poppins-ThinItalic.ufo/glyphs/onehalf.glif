@@ -3,13 +3,8 @@
   <advance width="593"/>
   <unicode hex="00BD"/>
   <outline>
-    <contour>
-      <point x="465" y="704" type="line"/>
-      <point x="-8" y="0" type="line"/>
-      <point x="12" y="0" type="line"/>
-      <point x="485" y="704" type="line"/>
-    </contour>
     <component base="onesuperior" xOffset="23"/>
     <component base="twosuperior" xOffset="292" yOffset="-353"/>
+    <component base="fraction" xOffset="120"/>
   </outline>
 </glyph>
