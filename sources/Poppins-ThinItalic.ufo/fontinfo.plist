@@ -6,6 +6,8 @@
     <integer>1135</integer>
     <key>capHeight</key>
     <integer>704</integer>
+    <key>copyright</key>
+    <string>Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/poppins)</string>
     <key>descender</key>
     <integer>-627</integer>
     <key>familyName</key>
