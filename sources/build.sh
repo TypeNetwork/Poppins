@@ -46,13 +46,16 @@ do
 	#mv "$vf.fix" $vf;
 done
 
-#echo "Fixing VF Meta"
-#gftools fix-vf-meta $vfs;
+echo "Fixing VF Meta"
+gftools fix-vf-meta $vfs;
+for vf in $vfs
+do
+	mv "$vf.fix" $vf;
+done
 
 echo "Dropping MVAR"
 for vf in $vfs
 do
-	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
 	new_file=../fonts/vf/$rtrip.ttx;
