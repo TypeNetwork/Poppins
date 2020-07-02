@@ -2,9 +2,9 @@
 
 @square_punctuation = [ colon.ss01 exclam.ss01 period.ss01 question.ss01 semicolon.ss01 quotedblleft.ss01 quotedblright.ss01 quoteleft.ss01 quoteright.ss01 questiondown.ss01 exclamdown.ss01 periodcentered.ss01 ellipsis.ss01 comma.ss01 divide.ss01 ];
 
-@single_storey_a = [ a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde  ];
+@single_storey_a = [ a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ];
 
-@double_storey_a = [ a.ss02 aacute.ss02 abreve.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02  ];
+@double_storey_a = [ a.ss02 aacute.ss02 abreve.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 ];
 
 feature ss01 {
 sub @circular_punctuation by @square_punctuation; 
