@@ -105735,9 +105735,11 @@
     <key>com.schriftgestaltung.appVersion</key>
     <string>1342</string>
     <key>com.schriftgestaltung.customName</key>
-    <string>Italic</string>
+    <string>Black Italic</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -105749,7 +105751,7 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-    <string></string>
+    <string>Bold</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
     <integer>150</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
@@ -105761,7 +105763,7 @@
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
-    <string>Bold</string>
+    <string>Regular</string>
     <key>com.schriftgestaltung.weightValue</key>
     <integer>150</integer>
     <key>com.schriftgestaltung.width</key>

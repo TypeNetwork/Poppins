@@ -28,7 +28,7 @@
         <dimension name="Weight" xvalue="44"/>
       </location>
     </source>
-    <source filename="Poppins-BoldItalic.ufo" name="Poppins Bold Italic" familyname="Poppins" stylename="Bold Italic">
+    <source filename="Poppins-BlackItalic.ufo" name="Poppins Black Italic" familyname="Poppins" stylename="Black Italic">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
