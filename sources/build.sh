@@ -15,10 +15,10 @@ mkdir -p ../fonts
 # mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m Poppins-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Poppins-Roman.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Poppins-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Poppins-Italic.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Poppins-Roman.designspace --expand-features-to-instances -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Poppins-Roman.designspace --expand-features-to-instances -i -o otf --output-dir ../fonts/otf/
+fontmake -m Poppins-Italic.designspace --expand-features-to-instances -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Poppins-Italic.designspace --expand-features-to-instances -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 fontmake -m Poppins-Roman.designspace -o variable --output-path ../fonts/variable/Poppins[wght].ttf
