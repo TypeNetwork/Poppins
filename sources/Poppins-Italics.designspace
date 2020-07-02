@@ -3,17 +3,23 @@
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="900" default="500">
       <map input="100" output="-50"/>
+      <map input="200" output="-25"/>
+      <map input="300" output="0"/>
+      <map input="400" output="21"/>
       <map input="500" output="44"/>
+      <map input="600" output="70"/>
+      <map input="700" output="100"/>
+      <map input="800" output="125"/>
       <map input="900" output="150"/>
     </axis>
   </axes>
   <sources>
-    <source filename="Poppins-100i.ufo" name="Poppins 100i" familyname="Poppins" stylename="100i">
+    <source filename="Poppins-ThinItalic.ufo" name="Poppins Thin Italic" familyname="Poppins" stylename="Thin Italic">
       <location>
         <dimension name="Weight" xvalue="-50"/>
       </location>
     </source>
-    <source filename="Poppins-500i.ufo" name="Poppins 500i" familyname="Poppins" stylename="500i">
+    <source filename="Poppins-MediumItalic.ufo" name="Poppins Medium Italic" familyname="Poppins" stylename="Medium Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -22,249 +28,81 @@
         <dimension name="Weight" xvalue="44"/>
       </location>
     </source>
-    <source filename="Poppins-900i.ufo" name="Poppins 900i" familyname="Poppins" stylename="900i">
+    <source filename="Poppins-BoldItalic.ufo" name="Poppins Bold Italic" familyname="Poppins" stylename="Bold Italic">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
     </source>
   </sources>
   <instances>
-
-    <instance name="Poppins 100i" familyname="Poppins" stylename="100i" filename="instance_ufos/Poppins-100i.ufo">
+    <instance name="Poppins Thin Italic" familyname="Poppins" stylename="Thin Italic" filename="instance_ufos/Poppins-ThinItalic.ufo" stylemapfamilyname="Poppins Thin Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="-50"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A74DA284-3E8B-4DB3-928B-2F0253F1CAB3</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 200i" familyname="Poppins" stylename="200i" filename="instance_ufos/Poppins-200i.ufo">
+    <instance name="Poppins ExtraLight Italic" familyname="Poppins" stylename="ExtraLight Italic" filename="instance_ufos/Poppins-ExtraLightItalic.ufo" stylemapfamilyname="Poppins ExtraLight Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="-25"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A74DA284-3E8B-4DB3-928B-2F0253F1CAB3</key>
-            <real>0.73404</real>
-            <key>ED744E86-D388-498D-94EB-FEBBBDC8F1CA</key>
-            <real>0.26596</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 300i" familyname="Poppins" stylename="300i" filename="instance_ufos/Poppins-300i.ufo">
+    <instance name="Poppins Light Italic" familyname="Poppins" stylename="Light Italic" filename="instance_ufos/Poppins-LightItalic.ufo" stylemapfamilyname="Poppins Light Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A74DA284-3E8B-4DB3-928B-2F0253F1CAB3</key>
-            <real>0.46809</real>
-            <key>ED744E86-D388-498D-94EB-FEBBBDC8F1CA</key>
-            <real>0.53191</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 400i" familyname="Poppins" stylename="400i" filename="instance_ufos/Poppins-400i.ufo">
+    <instance name="Poppins Regular Italic" familyname="Poppins" stylename="Regular Italic" filename="instance_ufos/Poppins-RegularItalic.ufo" stylemapfamilyname="Poppins Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="21"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A74DA284-3E8B-4DB3-928B-2F0253F1CAB3</key>
-            <real>0.24468</real>
-            <key>ED744E86-D388-498D-94EB-FEBBBDC8F1CA</key>
-            <real>0.75532</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 500i" familyname="Poppins" stylename="500i" filename="instance_ufos/Poppins-500i.ufo">
+    <instance name="Poppins Medium Italic" familyname="Poppins" stylename="Medium Italic" filename="instance_ufos/Poppins-MediumItalic.ufo" stylemapfamilyname="Poppins Medium Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="44"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>ED744E86-D388-498D-94EB-FEBBBDC8F1CA</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 600i" familyname="Poppins" stylename="600i" filename="instance_ufos/Poppins-600i.ufo">
+    <instance name="Poppins SemiBold Italic" familyname="Poppins" stylename="SemiBold Italic" filename="instance_ufos/Poppins-SemiBoldItalic.ufo" stylemapfamilyname="Poppins SemiBold Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="70"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>15935870-0A58-425A-9765-D144975D2C89</key>
-            <real>0.24528</real>
-            <key>ED744E86-D388-498D-94EB-FEBBBDC8F1CA</key>
-            <real>0.75472</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 700i" familyname="Poppins" stylename="700i" filename="instance_ufos/Poppins-700i.ufo">
+    <instance name="Poppins Bold Italic" familyname="Poppins" stylename="Bold Italic" filename="instance_ufos/Poppins-BoldItalic.ufo" stylemapfamilyname="Poppins Bold Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>15935870-0A58-425A-9765-D144975D2C89</key>
-            <real>0.5283</real>
-            <key>ED744E86-D388-498D-94EB-FEBBBDC8F1CA</key>
-            <real>0.4717</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 800i" familyname="Poppins" stylename="800i" filename="instance_ufos/Poppins-800i.ufo">
+    <instance name="Poppins ExtraBold Italic" familyname="Poppins" stylename="ExtraBold Italic" filename="instance_ufos/Poppins-ExtraBoldItalic.ufo" stylemapfamilyname="Poppins ExtraBold Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="125"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>15935870-0A58-425A-9765-D144975D2C89</key>
-            <real>0.76415</real>
-            <key>ED744E86-D388-498D-94EB-FEBBBDC8F1CA</key>
-            <real>0.23585</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Poppins 900i" familyname="Poppins" stylename="900i" filename="instance_ufos/Poppins-900i.ufo">
+    <instance name="Poppins Black Italic" familyname="Poppins" stylename="Black Italic" filename="instance_ufos/Poppins-BlackItalic.ufo" stylemapfamilyname="Poppins Black Italic" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>15935870-0A58-425A-9765-D144975D2C89</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
   </instances>
   <lib>
     <dict>
       <key>UFOFormat</key>
-      <integer>2</integer>
-      <key>com.letterror.mathModelPref</key>
-      <string>previewVarLib</string>
+      <integer>3</integer>
       <key>com.typemytype.robofont.b.layerStrokeColor</key>
       <array>
         <integer>1</integer>
