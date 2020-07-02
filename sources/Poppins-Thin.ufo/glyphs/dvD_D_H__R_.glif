@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvDDH_R" format="2">
+  <advance width="628"/>
+  <anchor x="459" y="740" name="abvm.e"/>
+  <outline>
+    <component base="dvDDH_RA"/>
+    <component base="dvVirama" xOffset="514" yOffset="-87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

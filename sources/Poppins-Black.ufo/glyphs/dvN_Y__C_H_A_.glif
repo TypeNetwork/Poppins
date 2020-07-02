@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNY_CHA" format="2">
+  <advance width="1347"/>
+  <anchor x="1190" y="740" name="abvm.e"/>
+  <anchor x="1034" y="-85" name="blwm.u"/>
+  <anchor x="1020" y="15" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="284" y="31" type="curve" smooth="yes"/>
+      <point x="422" y="31"/>
+      <point x="525" y="117"/>
+      <point x="525" y="274" type="curve" smooth="yes"/>
+      <point x="525" y="431"/>
+      <point x="422" y="518"/>
+      <point x="284" y="518" type="curve" smooth="yes"/>
+      <point x="154" y="518"/>
+      <point x="48" y="445"/>
+      <point x="42" y="308" type="curve"/>
+      <point x="234" y="308" type="line"/>
+      <point x="243" y="338"/>
+      <point x="269" y="345"/>
+      <point x="286" y="345" type="curve" smooth="yes"/>
+      <point x="322" y="345"/>
+      <point x="342" y="313"/>
+      <point x="342" y="274" type="curve" smooth="yes"/>
+      <point x="342" y="233"/>
+      <point x="322" y="202"/>
+      <point x="286" y="202" type="curve" smooth="yes"/>
+      <point x="269" y="202"/>
+      <point x="243" y="209"/>
+      <point x="234" y="240" type="curve"/>
+      <point x="42" y="240" type="line"/>
+      <point x="48" y="103"/>
+      <point x="154" y="31"/>
+    </contour>
+    <contour>
+      <point x="452" y="196" type="line"/>
+      <point x="693" y="196" type="line"/>
+      <point x="694" y="367" type="line"/>
+      <point x="452" y="367" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11" y="571" type="line"/>
+      <point x="693" y="571" type="line"/>
+      <point x="693" y="740" type="line"/>
+      <point x="-11" y="740" type="line"/>
+    </contour>
+    <component base="dvCHA" xOffset="519"/>
+  </outline>
+</glyph>

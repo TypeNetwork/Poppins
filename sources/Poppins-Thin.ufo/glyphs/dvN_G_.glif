@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNG" format="2">
+  <advance width="622"/>
+  <anchor x="461" y="740" name="abvm.e"/>
+  <outline>
+    <component base="dvNGA"/>
+    <component base="dvVirama" xOffset="479" yOffset="-9"/>
+  </outline>
+</glyph>

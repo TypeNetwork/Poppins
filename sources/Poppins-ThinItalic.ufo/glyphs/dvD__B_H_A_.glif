@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_BHA" format="2">
+  <advance width="1303"/>
+  <outline>
+    <contour>
+      <point x="512" y="-278" type="line"/>
+      <point x="531" y="-278" type="line"/>
+      <point x="447" y="-100" type="line"/>
+      <point x="429" y="-100" type="line"/>
+    </contour>
+    <component base="dvDA"/>
+    <component base="dvBHA" xOffset="561"/>
+  </outline>
+</glyph>

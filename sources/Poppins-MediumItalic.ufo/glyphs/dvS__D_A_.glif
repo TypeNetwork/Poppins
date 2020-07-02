@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvS_DA" format="2">
+  <advance width="1134"/>
+  <anchor x="1088" y="740" name="abvm.e"/>
+  <anchor x="992" y="-21" name="blwm.u"/>
+  <anchor x="992" y="-21" name="blwm.virama"/>
+  <outline>
+    <component base="dvS"/>
+    <component base="dvDA" xOffset="523.01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvS</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvDA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

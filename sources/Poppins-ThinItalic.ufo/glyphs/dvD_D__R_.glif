@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvDD_R" format="2">
+  <advance width="583"/>
+  <anchor x="519" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="289" y="-357" type="line"/>
+      <point x="308" y="-357" type="line"/>
+      <point x="224" y="-179" type="line"/>
+      <point x="206" y="-179" type="line"/>
+    </contour>
+    <component base="dvDD_RA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

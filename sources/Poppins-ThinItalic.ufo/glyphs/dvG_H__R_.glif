@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvGH_R" format="2">
+  <advance width="466"/>
+  <outline>
+    <contour>
+      <point x="142" y="-58" type="line"/>
+      <point x="166" y="-58" type="line"/>
+      <point x="476" y="179" type="line"/>
+      <point x="461" y="185" type="line"/>
+    </contour>
+    <component base="dvGH"/>
+  </outline>
+</glyph>

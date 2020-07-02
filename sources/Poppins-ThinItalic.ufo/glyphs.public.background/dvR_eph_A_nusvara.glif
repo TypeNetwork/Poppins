@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvReph_Anusvara" format="2">
+  <outline>
+    <contour>
+      <point x="-274" y="0" type="line"/>
+      <point x="-257" y="0" type="line"/>
+      <point x="-130" y="724" type="line"/>
+      <point x="32" y="724" type="line"/>
+      <point x="35" y="740" type="line"/>
+      <point x="-306" y="740" type="line"/>
+      <point x="-309" y="724" type="line"/>
+      <point x="-147" y="724" type="line"/>
+    </contour>
+  </outline>
+</glyph>

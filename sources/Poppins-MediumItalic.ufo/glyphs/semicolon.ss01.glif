@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.ss01" format="2">
+  <advance width="212"/>
+  <outline>
+    <contour>
+      <point x="120" y="114" type="curve"/>
+      <point x="3" y="114" type="line"/>
+      <point x="-16" y="5" type="line"/>
+      <point x="45" y="5" type="line"/>
+      <point x="41" y="-18" type="line" smooth="yes"/>
+      <point x="33" y="-62"/>
+      <point x="12" y="-83"/>
+      <point x="-24" y="-83" type="curve"/>
+      <point x="-34" y="-138" type="line"/>
+      <point x="49" y="-138"/>
+      <point x="100" y="-92"/>
+      <point x="117" y="2" type="curve" smooth="yes"/>
+      <point x="122" y="34"/>
+      <point x="123" y="72"/>
+    </contour>
+    <component base="period.ss01" xOffset="57" yOffset="420"/>
+  </outline>
+</glyph>

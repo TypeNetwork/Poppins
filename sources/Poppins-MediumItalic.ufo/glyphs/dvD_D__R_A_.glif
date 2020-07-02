@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvDD_RA" format="2">
+  <advance width="573"/>
+  <anchor x="531" y="740" name="abvm.e"/>
+  <anchor x="276" y="-210" name="blwm.u"/>
+  <anchor x="286" y="-115" name="blwm.virama"/>
+  <outline>
+    <component base="dvDDA"/>
+    <component base="dvRashtrasign" xOffset="489" yOffset="-61"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDDA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvRashtrasign</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

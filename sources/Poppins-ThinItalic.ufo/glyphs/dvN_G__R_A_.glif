@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNG_RA" format="2">
+  <advance width="623"/>
+  <guideline x="535" y="656" angle="90"/>
+  <anchor x="527" y="740" name="abvm.e"/>
+  <anchor x="250" y="-209" name="blwm.u"/>
+  <anchor x="267" y="-119" name="blwm.virama"/>
+  <outline>
+    <component base="dvNGA"/>
+    <component base="dvRashtrasign" xOffset="623"/>
+  </outline>
+</glyph>

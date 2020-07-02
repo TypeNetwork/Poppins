@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvDDxA" format="2">
+  <advance width="573"/>
+  <unicode hex="095C"/>
+  <anchor x="531" y="740" name="abvm.e"/>
+  <anchor x="261" y="-296" name="blwm.u"/>
+  <anchor x="270" y="-202" name="blwm.virama"/>
+  <outline>
+    <component base="dvDDA"/>
+    <component base="dvNukta" xOffset="555" yOffset="-40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDDA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

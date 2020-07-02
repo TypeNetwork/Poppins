@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aacute.ss02" format="2">
+  <advance width="643"/>
+  <outline>
+    <component base="acute" xOffset="206"/>
+    <component base="a.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>aacute</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aacute</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.ss01" format="2">
+  <outline>
+    <contour>
+      <point x="62" y="212" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="282" y="212" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="603" type="line"/>
+      <point x="62" y="391" type="line"/>
+      <point x="282" y="391" type="line"/>
+      <point x="282" y="603" type="line"/>
+    </contour>
+  </outline>
+</glyph>

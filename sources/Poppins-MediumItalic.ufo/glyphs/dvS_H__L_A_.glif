@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSH_LA" format="2">
+  <advance width="1440"/>
+  <anchor x="1298" y="740" name="abvm.e"/>
+  <anchor x="1162" y="-34" name="blwm.u"/>
+  <anchor x="1170" y="57" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="993" y="402" type="curve"/>
+      <point x="990" y="402" type="line"/>
+      <point x="982" y="468"/>
+      <point x="940" y="537"/>
+      <point x="836" y="537" type="curve" smooth="yes"/>
+      <point x="715" y="537"/>
+      <point x="614" y="459"/>
+      <point x="588" y="309" type="curve" smooth="yes"/>
+      <point x="561" y="168"/>
+      <point x="631" y="57"/>
+      <point x="792" y="57" type="curve" smooth="yes"/>
+      <point x="801" y="57"/>
+      <point x="809" y="58"/>
+      <point x="821" y="59" type="curve"/>
+      <point x="838" y="151" type="line"/>
+      <point x="828" y="150"/>
+      <point x="820" y="149"/>
+      <point x="811" y="149" type="curve" smooth="yes"/>
+      <point x="716" y="149"/>
+      <point x="677" y="213"/>
+      <point x="693" y="303" type="curve" smooth="yes"/>
+      <point x="707" y="385"/>
+      <point x="757" y="445"/>
+      <point x="838" y="445" type="curve" smooth="yes"/>
+      <point x="920" y="445"/>
+      <point x="944" y="374"/>
+      <point x="927" y="281" type="curve" smooth="yes"/>
+      <point x="924" y="263" type="line"/>
+      <point x="1012" y="263" type="line"/>
+      <point x="1015" y="281" type="line" smooth="yes"/>
+      <point x="1032" y="376"/>
+      <point x="1082" y="445"/>
+      <point x="1165" y="445" type="curve" smooth="yes"/>
+      <point x="1242" y="445"/>
+      <point x="1271" y="383"/>
+      <point x="1257" y="303" type="curve" smooth="yes"/>
+      <point x="1241" y="212"/>
+      <point x="1179" y="149"/>
+      <point x="1087" y="149" type="curve" smooth="yes"/>
+      <point x="1078" y="149"/>
+      <point x="1067" y="150"/>
+      <point x="1058" y="151" type="curve"/>
+      <point x="1042" y="59" type="line"/>
+      <point x="1053" y="58"/>
+      <point x="1068" y="57"/>
+      <point x="1078" y="57" type="curve" smooth="yes"/>
+      <point x="1238" y="55"/>
+      <point x="1339" y="157"/>
+      <point x="1364" y="299" type="curve" smooth="yes"/>
+      <point x="1389" y="445"/>
+      <point x="1315" y="537"/>
+      <point x="1196" y="537" type="curve" smooth="yes"/>
+      <point x="1088" y="537"/>
+      <point x="1025" y="470"/>
+    </contour>
+    <contour>
+      <point x="1154" y="506" type="line"/>
+      <point x="1257" y="506" type="line"/>
+      <point x="1282" y="652" type="line"/>
+      <point x="1513" y="652" type="line"/>
+      <point x="1529" y="740" type="line"/>
+      <point x="663" y="740" type="line"/>
+      <point x="648" y="652" type="line"/>
+      <point x="1179" y="652" type="line"/>
+    </contour>
+    <component base="dvSH"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvSH</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

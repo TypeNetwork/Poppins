@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis.ss02" format="2">
+  <advance width="606"/>
+  <outline>
+    <component base="dieresis" xOffset="183"/>
+    <component base="a.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>adieresis</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>adieresis</string>
+    </dict>
+  </lib>
+</glyph>

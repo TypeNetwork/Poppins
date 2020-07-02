@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvGxA" format="2">
+  <advance width="765"/>
+  <unicode hex="095A"/>
+  <outline>
+    <component base="dvGA"/>
+    <component base="dvNukta" xOffset="511" yOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvGA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

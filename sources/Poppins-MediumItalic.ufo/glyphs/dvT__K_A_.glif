@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvT_KA" format="2">
+  <advance width="1371"/>
+  <anchor x="1001" y="740" name="abvm.e"/>
+  <anchor x="871" y="0" name="blwm.u"/>
+  <anchor x="871" y="0" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="269" y="2" type="curve" smooth="yes"/>
+      <point x="296" y="2" type="line"/>
+      <point x="310" y="85" type="line"/>
+      <point x="290" y="85" type="line" smooth="yes"/>
+      <point x="179" y="85"/>
+      <point x="131" y="146"/>
+      <point x="149" y="246" type="curve" smooth="yes"/>
+      <point x="168" y="353"/>
+      <point x="250" y="406"/>
+      <point x="361" y="406" type="curve" smooth="yes"/>
+      <point x="547" y="406" type="line"/>
+      <point x="563" y="496" type="line"/>
+      <point x="372" y="496" type="line" smooth="yes"/>
+      <point x="209" y="496"/>
+      <point x="73" y="424"/>
+      <point x="43" y="251" type="curve" smooth="yes"/>
+      <point x="15" y="84"/>
+      <point x="124" y="2"/>
+    </contour>
+    <contour>
+      <point x="26" y="652" type="line"/>
+      <point x="596" y="652" type="line"/>
+      <point x="612" y="740" type="line"/>
+      <point x="41" y="740" type="line"/>
+    </contour>
+    <component base="dvKA" xOffset="386"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvKA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

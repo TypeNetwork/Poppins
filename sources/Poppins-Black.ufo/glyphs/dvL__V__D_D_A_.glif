@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvL_V_DDA" format="2">
+  <advance width="1775"/>
+  <anchor x="1693" y="740" name="abvm.e"/>
+  <anchor x="1630" y="-124" name="blwm.u"/>
+  <anchor x="1615" y="-24" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="461" y="418" type="curve"/>
+      <point x="458" y="418" type="line"/>
+      <point x="426" y="475"/>
+      <point x="372" y="512"/>
+      <point x="282" y="512" type="curve" smooth="yes"/>
+      <point x="163" y="512"/>
+      <point x="42" y="440"/>
+      <point x="42" y="264" type="curve" smooth="yes"/>
+      <point x="42" y="113"/>
+      <point x="139" y="5"/>
+      <point x="314" y="5" type="curve" smooth="yes"/>
+      <point x="321" y="5"/>
+      <point x="333" y="5"/>
+      <point x="349" y="6" type="curve"/>
+      <point x="349" y="183" type="line"/>
+      <point x="339" y="182"/>
+      <point x="328" y="181"/>
+      <point x="323" y="181" type="curve" smooth="yes"/>
+      <point x="283" y="181"/>
+      <point x="249" y="207"/>
+      <point x="249" y="261" type="curve" smooth="yes"/>
+      <point x="249" y="305"/>
+      <point x="272" y="333"/>
+      <point x="313" y="333" type="curve" smooth="yes"/>
+      <point x="362" y="333"/>
+      <point x="376" y="291"/>
+      <point x="376" y="256" type="curve" smooth="yes"/>
+      <point x="376" y="227" type="line"/>
+      <point x="544" y="227" type="line"/>
+      <point x="544" y="256" type="line" smooth="yes"/>
+      <point x="544" y="291"/>
+      <point x="558" y="333"/>
+      <point x="607" y="333" type="curve" smooth="yes"/>
+      <point x="648" y="333"/>
+      <point x="671" y="305"/>
+      <point x="671" y="262" type="curve"/>
+      <point x="827" y="264" type="line"/>
+      <point x="835" y="440"/>
+      <point x="725" y="512"/>
+      <point x="626" y="512" type="curve" smooth="yes"/>
+      <point x="543" y="512"/>
+      <point x="491" y="475"/>
+    </contour>
+    <contour>
+      <point x="-11" y="571" type="line"/>
+      <point x="878" y="571" type="line"/>
+      <point x="878" y="740" type="line"/>
+      <point x="-11" y="740" type="line"/>
+    </contour>
+    <component base="dvDDA" xOffset="1216"/>
+    <component base="dvV" xOffset="628"/>
+  </outline>
+</glyph>

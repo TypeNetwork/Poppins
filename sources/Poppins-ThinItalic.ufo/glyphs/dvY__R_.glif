@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvY_R" format="2">
+  <advance width="458"/>
+  <outline>
+    <contour>
+      <point x="93" y="-58" type="line"/>
+      <point x="116" y="-58" type="line"/>
+      <point x="473" y="187" type="line"/>
+      <point x="465" y="200" type="line"/>
+      <point x="93" y="-56" type="line"/>
+    </contour>
+    <component base="dvY"/>
+  </outline>
+</glyph>

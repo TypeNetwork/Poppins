@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvG_DHA" format="2">
+  <advance width="1171"/>
+  <outline>
+    <contour>
+      <point x="-24" y="652" type="line"/>
+      <point x="655" y="652" type="line"/>
+      <point x="664" y="740" type="line"/>
+      <point x="-24" y="740" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="208" type="curve" smooth="yes"/>
+      <point x="349" y="208"/>
+      <point x="400" y="292"/>
+      <point x="400" y="395" type="curve" smooth="yes"/>
+      <point x="400" y="680" type="line"/>
+      <point x="295" y="668" type="line"/>
+      <point x="295" y="391" type="line" smooth="yes"/>
+      <point x="295" y="346"/>
+      <point x="281" y="298"/>
+      <point x="221" y="298" type="curve" smooth="yes"/>
+      <point x="165" y="298"/>
+      <point x="147" y="343"/>
+      <point x="147" y="389" type="curve" smooth="yes"/>
+      <point x="147" y="420" type="line"/>
+      <point x="45" y="420" type="line"/>
+      <point x="44" y="410"/>
+      <point x="44" y="399"/>
+      <point x="44" y="389" type="curve" smooth="yes"/>
+      <point x="44" y="280"/>
+      <point x="106" y="208"/>
+    </contour>
+    <component base="dvDHA" xOffset="449"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDHA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

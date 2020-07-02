@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTT" format="2">
+  <advance width="646"/>
+  <anchor x="533" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="304" y="-243" type="line"/>
+      <point x="411" y="-243" type="line"/>
+      <point x="320" y="-37" type="line"/>
+      <point x="216" y="-37" type="line"/>
+    </contour>
+    <component base="dvTTA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvTTA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

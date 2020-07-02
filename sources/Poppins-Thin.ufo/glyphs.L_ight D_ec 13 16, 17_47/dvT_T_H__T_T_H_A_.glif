@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTTH_TTHA" format="2">
+  <advance width="701"/>
+  <anchor x="368" y="740" name="abvm.e"/>
+  <anchor x="376" y="-215" name="blwm.u"/>
+  <anchor x="381" y="-131" name="blwm.virama"/>
+  <outline>
+  </outline>
+</glyph>

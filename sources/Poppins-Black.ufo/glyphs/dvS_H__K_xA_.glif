@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSH_KxA" format="2">
+  <advance width="1504"/>
+  <anchor x="1138" y="740" name="abvm.e"/>
+  <anchor x="1138" y="-221" name="blwm.u"/>
+  <anchor x="1138" y="0" name="blwm.virama"/>
+  <outline>
+    <component base="dvSH_KA"/>
+    <component base="dvNukta" xOffset="1010" yOffset="108"/>
+  </outline>
+</glyph>

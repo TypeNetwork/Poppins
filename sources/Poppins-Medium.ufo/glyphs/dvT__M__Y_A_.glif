@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvT_M_YA" format="2">
+  <advance width="1649"/>
+  <outline>
+    <contour>
+      <point x="526" y="364" type="line"/>
+      <point x="676" y="454" type="line"/>
+      <point x="345" y="454" type="line" smooth="yes"/>
+      <point x="185" y="454"/>
+      <point x="65" y="386"/>
+      <point x="65" y="229" type="curve" smooth="yes"/>
+      <point x="65" y="75"/>
+      <point x="174" y="2"/>
+      <point x="325" y="2" type="curve" smooth="yes"/>
+      <point x="361" y="2" type="line"/>
+      <point x="361" y="85" type="line"/>
+      <point x="335" y="85" type="line" smooth="yes"/>
+      <point x="228" y="85"/>
+      <point x="171" y="137"/>
+      <point x="171" y="225" type="curve" smooth="yes"/>
+      <point x="171" y="319"/>
+      <point x="241" y="364"/>
+      <point x="348" y="364" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-24" y="652" type="line"/>
+      <point x="714" y="652" type="line"/>
+      <point x="714" y="740" type="line"/>
+      <point x="-24" y="740" type="line"/>
+    </contour>
+    <component base="dvM_YA" xOffset="390.01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvM_YA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

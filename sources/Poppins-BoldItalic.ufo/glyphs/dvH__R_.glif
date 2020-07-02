@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvH_R" format="2">
+  <advance width="584"/>
+  <anchor x="550" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="202" y="-429" type="line"/>
+      <point x="409" y="-429" type="line"/>
+      <point x="312" y="-191" type="line"/>
+      <point x="110" y="-191" type="line"/>
+    </contour>
+    <component base="dvH_RA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

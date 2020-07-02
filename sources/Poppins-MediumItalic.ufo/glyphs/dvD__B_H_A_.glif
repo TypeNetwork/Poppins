@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_BHA" format="2">
+  <advance width="1393"/>
+  <outline>
+    <contour>
+      <point x="446" y="-300" type="line"/>
+      <point x="554" y="-300" type="line"/>
+      <point x="463" y="-94" type="line"/>
+      <point x="359" y="-94" type="line"/>
+    </contour>
+    <component base="dvDA"/>
+    <component base="dvBHA" xOffset="582"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvBHA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmE" format="2">
+  <unicode hex="0947"/>
+  <anchor x="-99" y="740" name="_abvm.e"/>
+  <outline>
+    <contour>
+      <point x="-198" y="736" type="curve"/>
+      <point x="-99" y="736" type="line"/>
+      <point x="-231" y="966"/>
+      <point x="-283" y="986"/>
+      <point x="-422" y="987" type="curve"/>
+      <point x="-465" y="987" type="line"/>
+      <point x="-465" y="901" type="line"/>
+      <point x="-420" y="901" type="line"/>
+      <point x="-325" y="901"/>
+      <point x="-294" y="887"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvK_THA" format="2">
+  <advance width="1460"/>
+  <outline>
+    <contour>
+      <point x="384" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="571" type="line"/>
+      <point x="895" y="571" type="line"/>
+      <point x="895" y="740" type="line"/>
+      <point x="-11" y="740" type="line"/>
+      <point x="-11" y="571" type="line"/>
+      <point x="384" y="571" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="43" type="curve" smooth="yes"/>
+      <point x="358" y="43"/>
+      <point x="421" y="111"/>
+      <point x="421" y="217" type="curve"/>
+      <point x="384" y="279" type="line"/>
+      <point x="384" y="241"/>
+      <point x="355" y="214"/>
+      <point x="316" y="214" type="curve" smooth="yes"/>
+      <point x="274" y="214"/>
+      <point x="249" y="241"/>
+      <point x="249" y="277" type="curve" smooth="yes"/>
+      <point x="249" y="314"/>
+      <point x="276" y="341"/>
+      <point x="317" y="341" type="curve" smooth="yes"/>
+      <point x="357" y="341"/>
+      <point x="384" y="315"/>
+      <point x="384" y="278" type="curve"/>
+      <point x="423" y="343" type="line"/>
+      <point x="423" y="443"/>
+      <point x="366" y="513"/>
+      <point x="252" y="513" type="curve" smooth="yes"/>
+      <point x="115" y="513"/>
+      <point x="42" y="415"/>
+      <point x="42" y="278" type="curve" smooth="yes"/>
+      <point x="42" y="144"/>
+      <point x="115" y="43"/>
+    </contour>
+    <contour>
+      <point x="580" y="267" type="line"/>
+      <point x="580" y="313"/>
+      <point x="601" y="340"/>
+      <point x="639" y="340" type="curve" smooth="yes"/>
+      <point x="672" y="340"/>
+      <point x="690" y="319"/>
+      <point x="695" y="294" type="curve"/>
+      <point x="872" y="374" type="line"/>
+      <point x="851" y="449"/>
+      <point x="799" y="503"/>
+      <point x="705" y="503" type="curve" smooth="yes"/>
+      <point x="605" y="503"/>
+      <point x="544" y="440"/>
+      <point x="544" y="353" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1191" y="0" type="line"/>
+      <point x="1395" y="0" type="line"/>
+      <point x="1395" y="567" type="line"/>
+      <point x="1471" y="567" type="line"/>
+      <point x="1471" y="740" type="line"/>
+      <point x="1191" y="740" type="line"/>
+      <point x="1191" y="444" type="line" smooth="yes"/>
+      <point x="1191" y="305"/>
+      <point x="1110" y="240"/>
+      <point x="1011" y="240" type="curve" smooth="yes"/>
+      <point x="916" y="240"/>
+      <point x="890" y="291"/>
+      <point x="885" y="321" type="curve"/>
+      <point x="792" y="307" type="line"/>
+      <point x="815" y="305"/>
+      <point x="837" y="304"/>
+      <point x="858" y="304" type="curve" smooth="yes"/>
+      <point x="1057" y="304"/>
+      <point x="1138" y="408"/>
+      <point x="1138" y="533" type="curve" smooth="yes"/>
+      <point x="1138" y="668"/>
+      <point x="1046" y="749"/>
+      <point x="918" y="749" type="curve" smooth="yes"/>
+      <point x="831" y="749"/>
+      <point x="751" y="710"/>
+      <point x="718" y="627" type="curve"/>
+      <point x="894" y="571" type="line"/>
+      <point x="902" y="574"/>
+      <point x="907" y="576"/>
+      <point x="916" y="576" type="curve" smooth="yes"/>
+      <point x="934" y="576"/>
+      <point x="946" y="560"/>
+      <point x="946" y="539" type="curve" smooth="yes"/>
+      <point x="946" y="471"/>
+      <point x="881" y="448"/>
+      <point x="775" y="448" type="curve" smooth="yes"/>
+      <point x="695" y="448" type="line"/>
+      <point x="690" y="419"/>
+      <point x="688" y="391"/>
+      <point x="688" y="364" type="curve" smooth="yes"/>
+      <point x="688" y="181"/>
+      <point x="809" y="72"/>
+      <point x="980" y="72" type="curve" smooth="yes"/>
+      <point x="1085" y="72"/>
+      <point x="1158" y="115"/>
+      <point x="1191" y="165" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

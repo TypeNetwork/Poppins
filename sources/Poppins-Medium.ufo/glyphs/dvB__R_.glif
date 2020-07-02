@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvB_R" format="2">
+  <advance width="406"/>
+  <outline>
+    <contour>
+      <point x="515" y="161" type="line"/>
+      <point x="407" y="145" type="line"/>
+      <point x="202" y="-56" type="line"/>
+      <point x="310" y="-56" type="line"/>
+    </contour>
+    <component base="dvB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvB</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

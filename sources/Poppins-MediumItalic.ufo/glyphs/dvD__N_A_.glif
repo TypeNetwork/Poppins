@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_NA" format="2">
+  <advance width="1388"/>
+  <outline>
+    <contour>
+      <point x="445" y="-300" type="line"/>
+      <point x="553" y="-300" type="line"/>
+      <point x="462" y="-94" type="line"/>
+      <point x="358" y="-94" type="line"/>
+    </contour>
+    <component base="dvDA"/>
+    <component base="dvNA" xOffset="589"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvNA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

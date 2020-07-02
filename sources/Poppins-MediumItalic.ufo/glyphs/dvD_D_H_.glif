@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvDDH" format="2">
+  <advance width="644"/>
+  <anchor x="554" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="309" y="-276" type="line"/>
+      <point x="416" y="-276" type="line"/>
+      <point x="326" y="-70" type="line"/>
+      <point x="221" y="-70" type="line"/>
+    </contour>
+    <component base="dvDDHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDDHA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmE_Reph" format="2">
+  <anchor x="-129" y="740" name="_abvm.e"/>
+  <outline>
+    <contour>
+      <point x="-126" y="737" type="line"/>
+      <point x="-140" y="762"/>
+      <point x="-147" y="791"/>
+      <point x="-147" y="820" type="curve" smooth="yes"/>
+      <point x="-147" y="903"/>
+      <point x="-104" y="946"/>
+      <point x="-40" y="946" type="curve" smooth="yes"/>
+      <point x="14" y="946"/>
+      <point x="56" y="908"/>
+      <point x="53" y="849" type="curve"/>
+      <point x="69" y="849" type="line"/>
+      <point x="72" y="918"/>
+      <point x="24" y="962"/>
+      <point x="-40" y="962" type="curve" smooth="yes"/>
+      <point x="-122" y="962"/>
+      <point x="-161" y="899"/>
+      <point x="-161" y="828" type="curve" smooth="yes"/>
+      <point x="-161" y="803"/>
+      <point x="-156" y="778"/>
+      <point x="-144" y="752" type="curve"/>
+    </contour>
+    <component base="dvmE"/>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvEyelash_HA" format="2">
+  <advance width="717"/>
+  <anchor x="599" y="740" name="abvm.e"/>
+  <anchor x="461" y="-187" name="blwm.u"/>
+  <anchor x="461" y="-97" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="-35" y="724" type="line"/>
+      <point x="297" y="724" type="line"/>
+      <point x="297" y="740" type="line"/>
+      <point x="-35" y="740" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="299" type="curve"/>
+      <point x="275" y="299"/>
+      <point x="309" y="313"/>
+      <point x="332" y="323" type="curve"/>
+      <point x="312" y="331" type="line"/>
+      <point x="289" y="323"/>
+      <point x="263" y="315"/>
+      <point x="225" y="315" type="curve"/>
+      <point x="143" y="315"/>
+      <point x="47" y="352"/>
+      <point x="47" y="475" type="curve"/>
+      <point x="31" y="475" type="line"/>
+      <point x="31" y="343"/>
+      <point x="135" y="299"/>
+    </contour>
+    <component base="dvHA" xOffset="130"/>
+  </outline>
+</glyph>

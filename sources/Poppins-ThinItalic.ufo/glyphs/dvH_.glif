@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvH" format="2">
+  <advance width="587"/>
+  <anchor x="543" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="288" y="-374" type="line"/>
+      <point x="307" y="-374" type="line"/>
+      <point x="222" y="-196" type="line"/>
+      <point x="204" y="-196" type="line"/>
+    </contour>
+    <component base="dvHA"/>
+  </outline>
+</glyph>

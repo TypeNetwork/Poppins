@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvK_S_P_LA" format="2">
+  <advance width="2514"/>
+  <anchor x="2377" y="740" name="abvm.e"/>
+  <anchor x="2241" y="-34" name="blwm.u"/>
+  <anchor x="2249" y="57" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="384" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="599" y="652" type="line"/>
+      <point x="971" y="652" type="line"/>
+      <point x="987" y="740" type="line"/>
+      <point x="41" y="740" type="line"/>
+      <point x="26" y="652" type="line"/>
+      <point x="499" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="88" type="curve" smooth="yes"/>
+      <point x="365" y="88"/>
+      <point x="445" y="187"/>
+      <point x="459" y="291" type="curve"/>
+      <point x="439" y="313" type="line"/>
+      <point x="426" y="251"/>
+      <point x="372" y="177"/>
+      <point x="277" y="176" type="curve" smooth="yes"/>
+      <point x="198" y="176"/>
+      <point x="146" y="230"/>
+      <point x="163" y="320" type="curve" smooth="yes"/>
+      <point x="178" y="407"/>
+      <point x="250" y="461"/>
+      <point x="326" y="461" type="curve" smooth="yes"/>
+      <point x="423" y="461"/>
+      <point x="452" y="387"/>
+      <point x="440" y="319" type="curve"/>
+      <point x="469" y="348" type="line"/>
+      <point x="492" y="449"/>
+      <point x="448" y="551"/>
+      <point x="310" y="551" type="curve" smooth="yes"/>
+      <point x="183" y="551"/>
+      <point x="81" y="462"/>
+      <point x="57" y="323" type="curve" smooth="yes"/>
+      <point x="31" y="181"/>
+      <point x="110" y="88"/>
+    </contour>
+    <contour>
+      <point x="525" y="354" type="curve"/>
+      <point x="539" y="311" type="line"/>
+      <point x="550" y="376"/>
+      <point x="601" y="461"/>
+      <point x="696" y="461" type="curve" smooth="yes"/>
+      <point x="770" y="461"/>
+      <point x="811" y="407"/>
+      <point x="798" y="334" type="curve"/>
+      <point x="893" y="334" type="line"/>
+      <point x="914" y="450"/>
+      <point x="861" y="542"/>
+      <point x="740" y="542" type="curve" smooth="yes"/>
+      <point x="611" y="542"/>
+      <point x="540" y="446"/>
+    </contour>
+    <contour>
+      <point x="954" y="-9" type="curve" smooth="yes"/>
+      <point x="1084" y="-9"/>
+      <point x="1167" y="78"/>
+      <point x="1181" y="205" type="curve"/>
+      <point x="1081" y="205" type="line"/>
+      <point x="1070" y="134"/>
+      <point x="1030" y="81"/>
+      <point x="963" y="81" type="curve" smooth="yes"/>
+      <point x="893" y="81"/>
+      <point x="867" y="132"/>
+      <point x="879" y="203" type="curve" smooth="yes"/>
+      <point x="911" y="386" type="line"/>
+      <point x="852" y="335" type="line"/>
+      <point x="1364" y="335" type="line"/>
+      <point x="1379" y="421" type="line"/>
+      <point x="1032" y="421" type="line"/>
+      <point x="1037" y="370" type="line"/>
+      <point x="1108" y="395"/>
+      <point x="1174" y="459"/>
+      <point x="1194" y="568" type="curve" smooth="yes"/>
+      <point x="1212" y="669" type="line"/>
+      <point x="1108" y="669" type="line"/>
+      <point x="1090" y="568" type="line" smooth="yes"/>
+      <point x="1072" y="474"/>
+      <point x="1012" y="411"/>
+      <point x="900" y="411" type="curve" smooth="yes"/>
+      <point x="812" y="411" type="line"/>
+      <point x="777" y="213" type="line" smooth="yes"/>
+      <point x="755" y="86"/>
+      <point x="818" y="-9"/>
+    </contour>
+    <contour>
+      <point x="754" y="652" type="line"/>
+      <point x="1409" y="652" type="line"/>
+      <point x="1424" y="740" type="line"/>
+      <point x="769" y="740" type="line"/>
+    </contour>
+    <component base="dvP_LA" xOffset="1249"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvP_LA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

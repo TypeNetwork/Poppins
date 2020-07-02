@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvT_P_RA" format="2">
+  <advance width="1041"/>
+  <outline>
+    <contour>
+      <point x="555" y="314" type="line"/>
+      <point x="555" y="488" type="line"/>
+      <point x="326" y="488" type="line" smooth="yes"/>
+      <point x="176" y="488"/>
+      <point x="42" y="415"/>
+      <point x="42" y="243" type="curve" smooth="yes"/>
+      <point x="42" y="67"/>
+      <point x="166" y="1"/>
+      <point x="302" y="1" type="curve" smooth="yes"/>
+      <point x="351" y="1" type="line"/>
+      <point x="351" y="160" type="line"/>
+      <point x="335" y="160" type="line"/>
+      <point x="274" y="160"/>
+      <point x="248" y="194"/>
+      <point x="248" y="238" type="curve" smooth="yes"/>
+      <point x="248" y="284"/>
+      <point x="284" y="314"/>
+      <point x="336" y="314" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-11" y="571" type="line"/>
+      <point x="557" y="571" type="line"/>
+      <point x="557" y="740" type="line"/>
+      <point x="-11" y="740" type="line"/>
+    </contour>
+    <component base="dvP_RA" xOffset="350"/>
+  </outline>
+</glyph>

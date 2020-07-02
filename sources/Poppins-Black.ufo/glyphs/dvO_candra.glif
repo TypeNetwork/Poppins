@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvOcandra" format="2">
+  <advance width="1182"/>
+  <unicode hex="0911"/>
+  <anchor x="957" y="977" name="abvm.e"/>
+  <outline>
+    <component base="dvAA"/>
+    <component base="dvmEcandra" xOffset="1029" yOffset="1"/>
+  </outline>
+</glyph>

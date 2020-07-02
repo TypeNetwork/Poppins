@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>740</integer>
+    <key>capHeight</key>
+    <integer>704</integer>
+    <key>descender</key>
+    <integer>-254</integer>
+    <key>familyName</key>
+    <string>Poppins</string>
+    <key>italicAngle</key>
+    <integer>-10</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2017/09/19 07:47:10</string>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>3</integer>
+    </array>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-9</integer>
+      <integer>0</integer>
+      <integer>540</integer>
+      <integer>548</integer>
+      <integer>704</integer>
+      <integer>711</integer>
+      <integer>740</integer>
+      <integer>756</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-265</integer>
+      <integer>-254</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Poppins Thin</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>Thin Italic</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>540</integer>
+  </dict>
+</plist>

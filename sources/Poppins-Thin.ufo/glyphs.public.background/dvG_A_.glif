@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvGA" format="2">
+  <outline>
+    <contour>
+      <point x="540" y="0" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="556" y="720" type="line"/>
+      <point x="540" y="720"/>
+      <point x="734" y="720"/>
+      <point x="718" y="720" type="curve"/>
+      <point x="718" y="740" type="line"/>
+      <point x="-5" y="740" type="line"/>
+      <point x="-5" y="720" type="line"/>
+      <point x="540" y="720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvB_L_YA" format="2">
+  <advance width="1814"/>
+  <outline>
+    <contour>
+      <point x="672" y="57" type="curve" smooth="yes"/>
+      <point x="681" y="57"/>
+      <point x="690" y="58"/>
+      <point x="702" y="59" type="curve"/>
+      <point x="718" y="151" type="line"/>
+      <point x="709" y="150"/>
+      <point x="700" y="149"/>
+      <point x="692" y="149" type="curve" smooth="yes"/>
+      <point x="596" y="149"/>
+      <point x="557" y="213"/>
+      <point x="573" y="303" type="curve" smooth="yes"/>
+      <point x="587" y="385"/>
+      <point x="638" y="445"/>
+      <point x="718" y="445" type="curve" smooth="yes"/>
+      <point x="800" y="445"/>
+      <point x="820" y="375"/>
+      <point x="807" y="281" type="curve" smooth="yes"/>
+      <point x="804" y="263" type="line"/>
+      <point x="892" y="263" type="line"/>
+      <point x="895" y="281" type="line" smooth="yes"/>
+      <point x="908" y="376"/>
+      <point x="962" y="442"/>
+      <point x="1045" y="445" type="curve" smooth="yes"/>
+      <point x="1104" y="447"/>
+      <point x="1147" y="410"/>
+      <point x="1137" y="354" type="curve"/>
+      <point x="1233" y="348" type="line"/>
+      <point x="1255" y="472"/>
+      <point x="1176" y="540"/>
+      <point x="1076" y="537" type="curve" smooth="yes"/>
+      <point x="969" y="534"/>
+      <point x="905" y="470"/>
+      <point x="873" y="402" type="curve"/>
+      <point x="871" y="402" type="line"/>
+      <point x="862" y="468"/>
+      <point x="820" y="537"/>
+      <point x="717" y="537" type="curve" smooth="yes"/>
+      <point x="602" y="537"/>
+      <point x="507" y="459"/>
+      <point x="481" y="309" type="curve" smooth="yes"/>
+      <point x="457" y="168"/>
+      <point x="522" y="57"/>
+    </contour>
+    <contour>
+      <point x="440" y="652" type="line"/>
+      <point x="1305" y="652" type="line"/>
+      <point x="1321" y="740" type="line"/>
+      <point x="455" y="740" type="line"/>
+    </contour>
+    <contour>
+      <point x="1360" y="103" type="curve" smooth="yes"/>
+      <point x="1511" y="103"/>
+      <point x="1607" y="195"/>
+      <point x="1632" y="293" type="curve"/>
+      <point x="1612" y="372" type="line"/>
+      <point x="1594" y="265"/>
+      <point x="1505" y="191"/>
+      <point x="1397" y="191" type="curve" smooth="yes"/>
+      <point x="1280" y="191"/>
+      <point x="1220" y="264"/>
+      <point x="1241" y="374" type="curve" smooth="yes"/>
+      <point x="1243" y="384"/>
+      <point x="1246" y="396"/>
+      <point x="1250" y="409" type="curve"/>
+      <point x="1192" y="378" type="line"/>
+      <point x="1218" y="378" type="line" smooth="yes"/>
+      <point x="1358" y="378"/>
+      <point x="1439" y="443"/>
+      <point x="1462" y="572" type="curve" smooth="yes"/>
+      <point x="1480" y="671" type="line"/>
+      <point x="1376" y="671" type="line"/>
+      <point x="1362" y="590" type="line" smooth="yes"/>
+      <point x="1343" y="480"/>
+      <point x="1276" y="435"/>
+      <point x="1165" y="435" type="curve" smooth="yes"/>
+      <point x="1152" y="435" type="line"/>
+      <point x="1146" y="419"/>
+      <point x="1142" y="401"/>
+      <point x="1139" y="384" type="curve" smooth="yes"/>
+      <point x="1108" y="214"/>
+      <point x="1191" y="103"/>
+    </contour>
+    <contour>
+      <point x="1547" y="0" type="line"/>
+      <point x="1652" y="0" type="line"/>
+      <point x="1769" y="669" type="line"/>
+      <point x="1664" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="1097" y="652" type="line"/>
+      <point x="1888" y="652" type="line"/>
+      <point x="1904" y="740" type="line"/>
+      <point x="1113" y="740" type="line"/>
+    </contour>
+    <component base="dvB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvB</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

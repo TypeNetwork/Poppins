@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.ss04" format="2">
+  <advance width="615"/>
+  <guideline x="494" y="491" angle="49.3987"/>
+  <guideline x="205" y="462" angle="40.5574"/>
+  <outline>
+    <contour>
+      <point x="317" y="427" type="curve"/>
+      <point x="260" y="427" type="line"/>
+      <point x="333" y="370" type="line"/>
+      <point x="538" y="551" type="line"/>
+      <point x="538" y="717" type="line"/>
+      <point x="74" y="717" type="line"/>
+      <point x="74" y="527" type="line"/>
+      <point x="367" y="527" type="line"/>
+      <point x="308" y="561" type="line"/>
+      <point x="173" y="441" type="line"/>
+      <point x="173" y="302" type="line"/>
+      <point x="268" y="302" type="line" smooth="yes"/>
+      <point x="320" y="302"/>
+      <point x="355" y="275"/>
+      <point x="355" y="229" type="curve" smooth="yes"/>
+      <point x="355" y="197"/>
+      <point x="336" y="176"/>
+      <point x="307" y="176" type="curve" smooth="yes"/>
+      <point x="265" y="176"/>
+      <point x="250" y="202"/>
+      <point x="253" y="249" type="curve"/>
+      <point x="37" y="249" type="line"/>
+      <point x="40" y="65"/>
+      <point x="153" y="-7"/>
+      <point x="307" y="-7" type="curve" smooth="yes"/>
+      <point x="459" y="-7"/>
+      <point x="561" y="84"/>
+      <point x="561" y="215" type="curve" smooth="yes"/>
+      <point x="561" y="354"/>
+      <point x="463" y="427"/>
+    </contour>
+  </outline>
+</glyph>

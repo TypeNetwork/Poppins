@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_TTH_RA" format="2">
+  <advance width="1057"/>
+  <anchor x="773" y="740" name="abvm.e"/>
+  <anchor x="782" y="-161" name="blwm.u"/>
+  <anchor x="775" y="-66" name="blwm.virama"/>
+  <outline>
+    <component base="dvRashtrasign" xOffset="984" yOffset="-5"/>
+    <component base="dvSS_TTHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvRashtrasign</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvSS_TTHA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

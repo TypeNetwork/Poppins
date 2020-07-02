@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_B_RA" format="2">
+  <advance width="631"/>
+  <anchor x="552" y="673" name="abvm.e"/>
+  <anchor x="568" y="-363" name="blwm.u"/>
+  <anchor x="568" y="-315" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="61" y="-357" type="line"/>
+      <point x="269" y="-357" type="line"/>
+      <point x="393" y="-189" type="line"/>
+      <point x="208" y="-184" type="line"/>
+    </contour>
+    <component base="dvD_BA"/>
+  </outline>
+</glyph>

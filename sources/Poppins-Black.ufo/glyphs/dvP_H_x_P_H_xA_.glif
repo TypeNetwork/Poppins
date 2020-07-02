@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvPHx_PHxA" format="2">
+  <advance width="1647"/>
+  <anchor x="1273" y="740" name="abvm.e"/>
+  <anchor x="1273" y="-86" name="blwm.u"/>
+  <anchor x="1273" y="0" name="blwm.virama"/>
+  <outline>
+    <component base="dvPH_PHA"/>
+    <component base="dvNukta" xOffset="441" yOffset="208"/>
+    <component base="dvNukta" xOffset="1104" yOffset="208"/>
+  </outline>
+</glyph>

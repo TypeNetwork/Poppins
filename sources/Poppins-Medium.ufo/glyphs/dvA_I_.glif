@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvAI" format="2">
+  <advance width="651"/>
+  <unicode hex="0910"/>
+  <anchor x="687" y="740" name="abvm.e"/>
+  <outline>
+    <component base="dvE"/>
+    <component base="dvmE" xOffset="666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvE</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvmE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

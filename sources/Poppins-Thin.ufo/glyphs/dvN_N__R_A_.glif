@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNN_RA" format="2">
+  <advance width="820"/>
+  <outline>
+    <contour>
+      <point x="326" y="-20" type="line"/>
+      <point x="348" y="-20" type="line"/>
+      <point x="689" y="322" type="line"/>
+      <point x="679" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="285" type="curve" smooth="yes"/>
+      <point x="366" y="285"/>
+      <point x="426" y="360"/>
+      <point x="426" y="466" type="curve" smooth="yes"/>
+      <point x="426" y="733" type="line"/>
+      <point x="409" y="733" type="line"/>
+      <point x="409" y="465" type="line" smooth="yes"/>
+      <point x="409" y="369"/>
+      <point x="355" y="301"/>
+      <point x="263" y="301" type="curve" smooth="yes"/>
+      <point x="173" y="301"/>
+      <point x="117" y="369"/>
+      <point x="117" y="465" type="curve" smooth="yes"/>
+      <point x="117" y="733" type="line"/>
+      <point x="100" y="733" type="line"/>
+      <point x="100" y="466" type="line" smooth="yes"/>
+      <point x="100" y="360"/>
+      <point x="161" y="285"/>
+    </contour>
+    <contour>
+      <point x="676" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="693" y="733" type="line"/>
+      <point x="676" y="733" type="line"/>
+      <point x="676" y="324" type="line"/>
+      <point x="676" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="-35" y="724" type="line"/>
+      <point x="855" y="724" type="line"/>
+      <point x="855" y="740" type="line"/>
+      <point x="-35" y="740" type="line"/>
+    </contour>
+  </outline>
+</glyph>

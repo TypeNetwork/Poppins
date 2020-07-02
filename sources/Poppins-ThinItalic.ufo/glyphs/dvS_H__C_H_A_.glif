@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSH_CHA" format="2">
+  <advance width="1333"/>
+  <anchor x="1214" y="740" name="abvm.e"/>
+  <anchor x="901" y="-57" name="blwm.u"/>
+  <anchor x="918" y="33" name="blwm.virama"/>
+  <outline>
+    <component base="dvSH"/>
+    <component base="dvCHA" xOffset="525"/>
+  </outline>
+</glyph>

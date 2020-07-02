@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring.ss02" format="2">
+  <advance width="575"/>
+  <outline>
+    <component base="ring" xOffset="207"/>
+    <component base="a.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>aring</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aring</string>
+    </dict>
+  </lib>
+</glyph>

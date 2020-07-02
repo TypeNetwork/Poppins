@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="256"/>
+  <unicode hex="201D"/>
+  <guideline x="221" y="578" angle="0"/>
+  <outline>
+    <contour>
+      <point x="183" y="512" type="line"/>
+      <point x="201" y="512" type="line"/>
+      <point x="303" y="704" type="line"/>
+      <point x="271" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="512" type="line"/>
+      <point x="91" y="512" type="line"/>
+      <point x="193" y="704" type="line"/>
+      <point x="161" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quoteright</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quoteright</string>
+    </dict>
+  </lib>
+</glyph>

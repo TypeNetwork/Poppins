@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmE_Anusvara" format="2">
+  <anchor x="-66" y="740" name="_abvm.e"/>
+  <outline>
+    <component base="dvmE"/>
+    <component base="dvAnusvara" xOffset="191" yOffset="-12"/>
+  </outline>
+</glyph>
