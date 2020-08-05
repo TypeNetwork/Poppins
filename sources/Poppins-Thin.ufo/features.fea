@@ -1,3 +1,4 @@
+include(../features/languagesystems.fea);
 @circular_punctuation = [ colon exclam period question semicolon quotedblleft quotedblright quoteleft quoteright questiondown exclamdown periodcentered ellipsis comma divide ];
 
 @square_punctuation = [ colon.ss01 exclam.ss01 period.ss01 question.ss01 semicolon.ss01 quotedblleft.ss01 quotedblright.ss01 quoteleft.ss01 quoteright.ss01 questiondown.ss01 exclamdown.ss01 periodcentered.ss01 ellipsis.ss01 comma.ss01 divide.ss01 ];
