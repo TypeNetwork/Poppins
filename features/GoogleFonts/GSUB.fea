@@ -1280,7 +1280,8 @@ feature pres {
 
   # MATRA I
 
-  include (../features/mI_variant_matches.fea);
+  # include (../features/mI_variant_matches.fea);
+  # lookup matras_i;
 
 } pres;
 
