@@ -24,5 +24,9 @@ feature ss04 {
 sub [ two three six nine ] by [two.ss04 three.ss04 six.ss04 nine.ss04 ];
 } ss04;
 
+lookup matras_i {
+include(../features/black_matras.fea);
+} matras_i;
+
 include(../features/Latin/GSUB.fea);
 include(../features/GoogleFonts/GSUB.fea);
