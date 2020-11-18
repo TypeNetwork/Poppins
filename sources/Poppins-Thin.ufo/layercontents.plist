@@ -79,10 +79,6 @@
       <string>glyphs.S_ep 20 17, 19_48.background</string>
     </array>
     <array>
-      <string>Bold Dec 17 16, 20:40</string>
-      <string>glyphs.B_old D_ec 17 16, 20_40</string>
-    </array>
-    <array>
       <string>Bold Dec 12 16, 15:44</string>
       <string>glyphs.B_old D_ec 12 16, 15_44</string>
     </array>
@@ -317,10 +313,6 @@
     <array>
       <string>Bold Dec 7 16, 16:54</string>
       <string>glyphs.B_old D_ec 7 16, 16_54</string>
-    </array>
-    <array>
-      <string>Bold Dec 17 16, 15:46</string>
-      <string>glyphs.B_old D_ec 17 16, 15_46</string>
     </array>
   </array>
 </plist>

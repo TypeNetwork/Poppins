@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmI.2620" format="2">
+  <advance width="301"/>
+  <outline>
+    <contour>
+      <point x="203" y="0" type="line"/>
+      <point x="203" y="653" type="line"/>
+      <point x="325" y="653" type="line"/>
+      <point x="325" y="740" type="line"/>
+      <point x="-24" y="740" type="line"/>
+      <point x="-24" y="653" type="line"/>
+      <point x="99" y="653" type="line"/>
+      <point x="99" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="703" type="line"/>
+      <point x="202" y="728" type="line" smooth="yes"/>
+      <point x="202" y="870"/>
+      <point x="329" y="932"/>
+      <point x="939" y="932" type="curve" smooth="yes"/>
+      <point x="1558" y="932"/>
+      <point x="1729" y="861"/>
+      <point x="1729" y="714" type="curve" smooth="yes"/>
+      <point x="1729" y="704" type="line"/>
+      <point x="1832" y="704" type="line"/>
+      <point x="1832" y="716" type="line" smooth="yes"/>
+      <point x="1832" y="907"/>
+      <point x="1643" y="1018"/>
+      <point x="946" y="1018" type="curve" smooth="yes"/>
+      <point x="262" y="1018"/>
+      <point x="99" y="925"/>
+      <point x="99" y="727" type="curve" smooth="yes"/>
+      <point x="99" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

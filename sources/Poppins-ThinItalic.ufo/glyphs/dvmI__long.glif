@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmI_long" format="2">
+  <advance width="271"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="206" y="724" type="line"/>
+      <point x="368" y="724" type="line"/>
+      <point x="371" y="740" type="line"/>
+      <point x="30" y="740" type="line"/>
+      <point x="27" y="724" type="line"/>
+      <point x="189" y="724" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="732" type="line"/>
+      <point x="208" y="737" type="line" smooth="yes"/>
+      <point x="231" y="867"/>
+      <point x="344" y="969"/>
+      <point x="1509" y="969" type="curve" smooth="yes"/>
+      <point x="2577" y="969"/>
+      <point x="2686" y="851"/>
+      <point x="2667" y="742" type="curve"/>
+      <point x="2666" y="735" type="line"/>
+      <point x="2682" y="733" type="line"/>
+      <point x="2684" y="742" type="line"/>
+      <point x="2705" y="861"/>
+      <point x="2593" y="985"/>
+      <point x="1512" y="985" type="curve" smooth="yes"/>
+      <point x="328" y="985"/>
+      <point x="216" y="876"/>
+      <point x="191" y="737" type="curve"/>
+      <point x="190" y="733" type="line"/>
+    </contour>
+  </outline>
+</glyph>
