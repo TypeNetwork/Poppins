@@ -1,30 +1,5 @@
 ### abvs
-@mI_VARIANTS = [
-	dvmI.a01
-	dvmI.a02
-	dvmI.a03
-	dvmI.a04
-	dvmI.a05
-	dvmI.a06
-	dvmI.a07
-	dvmI.a08
-	dvmI.a09
-	dvmI.a10
-	dvmI.a11
-	dvmI.a12
-	dvmI.a13
-	dvmI.a14
-	dvmI.a15
-	dvmI.a16
-	dvmI.a17
-	dvmI.a18
-	dvmI.a19
-	dvmI.a20
-	dvmI.a21
-	dvmI.a22
-	dvmI.a23
-	dvmI.a24
-];
+
 @BASES_ALIVE = [
 	dvKA
 	dvKHA
