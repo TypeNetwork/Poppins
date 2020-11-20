@@ -8,7 +8,7 @@ include(../features/languagesystems.fea);
 @double_storey_a = [ a.ss02 aacute.ss02 abreve.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 ];
 
 feature ss01 {
-sub @circular_punctuation by @square_punctuation; 
+sub @circular_punctuation by @square_punctuation;
 
 } ss01;
 
