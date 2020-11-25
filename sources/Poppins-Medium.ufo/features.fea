@@ -24,6 +24,7 @@ feature ss04 {
 sub [ two three six nine ] by [two.ss04 three.ss04 six.ss04 nine.ss04 ];
 } ss04;
 
-# include (../features/roman-matras.fea);
+include (../features/GoogleFonts/pres_common_lookups.fea)
+include (../features/GoogleFonts/pres_roman_matras_i.fea);
 include(../features/Latin/GSUB.fea);
 include(../features/GoogleFonts/GSUB.fea);
