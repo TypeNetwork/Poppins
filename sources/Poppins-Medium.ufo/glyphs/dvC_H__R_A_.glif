@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvCH_RA" format="2">
-  <advance width="818"/>
+  <advance width="819"/>
+  <anchor x="462" y="-74" name="blwm.virama"/>
   <anchor x="633" y="740" name="abvm.e"/>
   <anchor x="468" y="-169" name="blwm.u"/>
-  <anchor x="462" y="-74" name="blwm.virama"/>
   <outline>
     <component base="dvCHA"/>
     <component base="dvRashtrasign" xOffset="682" yOffset="-20"/>

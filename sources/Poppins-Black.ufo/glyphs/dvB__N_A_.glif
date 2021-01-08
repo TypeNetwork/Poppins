@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvB_NA" format="2">
-  <advance width="1213"/>
+  <advance width="1232"/>
   <outline>
-    <component base="dvNA"/>
-    <component base="dvB" xOffset="844"/>
+    <component base="dvNA" xOffset="388"/>
+    <component base="dvB"/>
   </outline>
 </glyph>

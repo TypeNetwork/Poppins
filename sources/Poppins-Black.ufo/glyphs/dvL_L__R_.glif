@@ -3,6 +3,6 @@
   <advance width="938"/>
   <outline>
     <component base="dvLL"/>
-    <component base="dvRashtrasign" xOffset="938"/>
+    <component base="dvRashtrasign" xOffset="1027" yOffset="13"/>
   </outline>
 </glyph>

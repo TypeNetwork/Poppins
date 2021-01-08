@@ -5,6 +5,6 @@
   <anchor x="769" y="740" name="abvm.e"/>
   <outline>
     <component base="dvE"/>
-    <component base="dvmE" xOffset="509"/>
+    <component base="dvmE" xOffset="652"/>
   </outline>
 </glyph>

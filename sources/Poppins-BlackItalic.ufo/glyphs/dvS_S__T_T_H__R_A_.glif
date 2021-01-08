@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvSS_TTH_RA" format="2">
   <advance width="1041"/>
+  <anchor x="726" y="-76" name="blwm.virama"/>
   <anchor x="876" y="740" name="abvm.e"/>
   <anchor x="722" y="-176" name="blwm.u"/>
-  <anchor x="726" y="-76" name="blwm.virama"/>
   <outline>
     <contour>
       <point x="286" y="120" type="curve" smooth="yes"/>

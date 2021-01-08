@@ -2,11 +2,28 @@
 <glyph name="dvNG_RA" format="2">
   <advance width="623"/>
   <guideline x="535" y="656" angle="90"/>
+  <anchor x="267" y="-119" name="blwm.virama"/>
   <anchor x="527" y="740" name="abvm.e"/>
   <anchor x="250" y="-209" name="blwm.u"/>
-  <anchor x="267" y="-119" name="blwm.virama"/>
   <outline>
     <component base="dvNGA"/>
-    <component base="dvRashtrasign" xOffset="623"/>
+    <component base="dvRashtrasign" xOffset="414" yOffset="-82"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>469</integer>
+          <key>y</key>
+          <integer>656</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
