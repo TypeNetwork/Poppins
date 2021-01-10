@@ -968,21 +968,22 @@ feature psts {
 
   # MATRA II
 
-  # sub
-  #   @BASES_FOR_LONG_mII
-  #   [
-  #     dvmII
-  #     dvmII_Reph
-  #     dvmII_Anusvara
-  #     dvmII_Reph_Anusvara
-  #   ]'
-  # by
-  #   [
-  #     dvmII.aLong
-  #     dvmII_Reph.aLong
-  #     dvmII_Anusvara.aLong
-  #     dvmII_Reph_Anusvara.aLong
-  #   ];
+  sub
+    # @BASES_FOR_LONG_mII
+    [ dvKA dvPHA dvKxA dvPHxA dvK_RA dvPH_RA dvKx_RA dvPHx_RA dvK_KA dvKx_KxA dvK_TA dvK_PHA dvKx_PHA dvKx_PHxA dvJ_KA dvT_KA dvT_K_RA dvT_PHA dvN_KA dvN_PHA dvN_PH_RA dvP_PHA dvPH_PHA dvPHx_PHxA dvL_KA dvL_PHA dvSH_KA dvSH_KxA dvSS_KA dvSS_K_RA dvSS_PHA dvS_KA dvS_K_RA dvS_PHA ]
+    [
+      dvmII
+      dvmII_Reph
+      dvmII_Anusvara
+      dvmII_Reph_Anusvara
+    ]'
+  by
+    [
+      dvmII.aLong
+      dvmII_Reph.aLong
+      dvmII_Anusvara.aLong
+      dvmII_Reph_Anusvara.aLong
+    ];
 
 } psts;
 
