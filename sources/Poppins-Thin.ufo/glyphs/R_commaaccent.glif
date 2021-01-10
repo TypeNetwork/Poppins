@@ -2,7 +2,6 @@
 <glyph name="Rcommaaccent" format="2">
   <advance width="535"/>
   <unicode hex="0156"/>
-  <anchor x="262" y="0" name="_bottom"/>
   <outline>
     <contour>
       <point x="288" y="-59" type="curve"/>

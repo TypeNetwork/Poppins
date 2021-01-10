@@ -2,7 +2,6 @@
 <glyph name="Scommaaccent" format="2">
   <advance width="536"/>
   <unicode hex="0218"/>
-  <anchor x="242" y="-7" name="_bottom"/>
   <outline>
     <contour>
       <point x="260" y="-59" type="curve"/>
