@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvEyelash_HA" format="2">
   <advance width="859"/>
+  <anchor x="594" y="-107" name="blwm.virama"/>
   <anchor x="814" y="740" name="abvm.e"/>
   <anchor x="595" y="-200" name="blwm.u"/>
-  <anchor x="594" y="-107" name="blwm.virama"/>
   <outline>
     <contour>
       <point x="34" y="571" type="line"/>
