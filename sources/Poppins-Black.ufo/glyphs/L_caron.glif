@@ -2,7 +2,6 @@
 <glyph name="Lcaron" format="2">
   <advance width="577"/>
   <unicode hex="013D"/>
-  <anchor x="449" y="743" name="_bottom"/>
   <outline>
     <contour>
       <point x="525" y="708" type="curve"/>

@@ -2,7 +2,6 @@
 <glyph name="Lcommaaccent" format="2">
   <advance width="511"/>
   <unicode hex="013B"/>
-  <anchor x="290" y="10" name="_commaaccent"/>
   <outline>
     <contour>
       <point x="366" y="-35" type="curve"/>
