@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvmI_long" format="2">
   <advance width="271"/>
+  <anchor x="2683" y="740" name="abvm.e"/>
   <outline>
     <contour>
       <point x="78" y="0" type="line"/>
