@@ -77,7 +77,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins Bold" familyname="Poppins" stylename="Bold" filename="instance_ufos/Poppins-Bold.ufo" stylemapfamilyname="Poppins Bold" stylemapstylename="regular">
+    <instance name="Poppins Bold" familyname="Poppins" stylename="Bold" filename="instance_ufos/Poppins-Bold.ufo" stylemapfamilyname="Poppins" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>

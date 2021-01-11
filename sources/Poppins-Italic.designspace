@@ -35,63 +35,63 @@
     </source>
   </sources>
   <instances>
-    <instance name="Poppins Thin Italic" familyname="Poppins" stylename="Thin Italic" filename="instance_ufos/Poppins-ThinItalic.ufo" stylemapfamilyname="Poppins Thin Italic" stylemapstylename="regular">
+    <instance name="Poppins Thin Italic" familyname="Poppins" stylename="Thin Italic" filename="instance_ufos/Poppins-ThinItalic.ufo" stylemapfamilyname="Poppins Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="-50"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins ExtraLight Italic" familyname="Poppins" stylename="ExtraLight Italic" filename="instance_ufos/Poppins-ExtraLightItalic.ufo" stylemapfamilyname="Poppins ExtraLight Italic" stylemapstylename="regular">
+    <instance name="Poppins ExtraLight Italic" familyname="Poppins" stylename="ExtraLight Italic" filename="instance_ufos/Poppins-ExtraLightItalic.ufo" stylemapfamilyname="Poppins ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="-25"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins Light Italic" familyname="Poppins" stylename="Light Italic" filename="instance_ufos/Poppins-LightItalic.ufo" stylemapfamilyname="Poppins Light Italic" stylemapstylename="regular">
+    <instance name="Poppins Light Italic" familyname="Poppins" stylename="Light Italic" filename="instance_ufos/Poppins-LightItalic.ufo" stylemapfamilyname="Poppins Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins Regular Italic" familyname="Poppins" stylename="Regular Italic" filename="instance_ufos/Poppins-RegularItalic.ufo" stylemapfamilyname="Poppins Italic" stylemapstylename="regular">
+    <instance name="Poppins Italic" familyname="Poppins" stylename="Italic" filename="instance_ufos/Poppins-Italic.ufo" stylemapfamilyname="Poppins" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="21"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins Medium Italic" familyname="Poppins" stylename="Medium Italic" filename="instance_ufos/Poppins-MediumItalic.ufo" stylemapfamilyname="Poppins Medium Italic" stylemapstylename="regular">
+    <instance name="Poppins Medium Italic" familyname="Poppins" stylename="Medium Italic" filename="instance_ufos/Poppins-MediumItalic.ufo" stylemapfamilyname="Poppins Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="44"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins SemiBold Italic" familyname="Poppins" stylename="SemiBold Italic" filename="instance_ufos/Poppins-SemiBoldItalic.ufo" stylemapfamilyname="Poppins SemiBold Italic" stylemapstylename="regular">
+    <instance name="Poppins SemiBold Italic" familyname="Poppins" stylename="SemiBold Italic" filename="instance_ufos/Poppins-SemiBoldItalic.ufo" stylemapfamilyname="Poppins SemiBold" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="70"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins Bold Italic" familyname="Poppins" stylename="Bold Italic" filename="instance_ufos/Poppins-BoldItalic.ufo" stylemapfamilyname="Poppins Bold Italic" stylemapstylename="regular">
+    <instance name="Poppins Bold Italic" familyname="Poppins" stylename="Bold Italic" filename="instance_ufos/Poppins-BoldItalic.ufo" stylemapfamilyname="Poppins Bold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins ExtraBold Italic" familyname="Poppins" stylename="ExtraBold Italic" filename="instance_ufos/Poppins-ExtraBoldItalic.ufo" stylemapfamilyname="Poppins ExtraBold Italic" stylemapstylename="regular">
+    <instance name="Poppins ExtraBold Italic" familyname="Poppins" stylename="ExtraBold Italic" filename="instance_ufos/Poppins-ExtraBoldItalic.ufo" stylemapfamilyname="Poppins ExtraBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="125"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance name="Poppins Black Italic" familyname="Poppins" stylename="Black Italic" filename="instance_ufos/Poppins-BlackItalic.ufo" stylemapfamilyname="Poppins Black Italic" stylemapstylename="regular">
+    <instance name="Poppins Black Italic" familyname="Poppins" stylename="Black Italic" filename="instance_ufos/Poppins-BlackItalic.ufo" stylemapfamilyname="Poppins Black" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
