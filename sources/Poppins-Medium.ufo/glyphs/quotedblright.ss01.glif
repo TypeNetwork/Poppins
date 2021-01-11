@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright.ss01" format="2">
   <advance width="326"/>
-  <anchor x="235" y="845" name="_bottom"/>
   <outline>
     <contour>
       <point x="284" y="800" type="curve"/>
