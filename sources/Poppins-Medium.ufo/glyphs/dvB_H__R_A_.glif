@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvBH_RA" format="2">
-  <advance width="812"/>
+  <advance width="832"/>
   <outline>
     <contour>
       <point x="265" y="110" type="curve" smooth="yes"/>
