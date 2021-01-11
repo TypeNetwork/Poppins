@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvmI.134" format="2">
-  <advance width="271"/>
-  <anchor x="1707.3728890732746" y="740.0" name="abvm.e"/>
+  <advance width="271.0"/>
+  <anchor x="1629.257003917825" y="740.0" name="abvm.e"/>
   <outline>
     <contour>
       <point x="78" y="0" type="curve"/>
@@ -34,26 +34,26 @@
       <point x="207" y="732"/>
       <point x="209" y="741"/>
       <point x="209" y="741" type="curve"/>
-      <point x="236" y="897"/>
-      <point x="374" y="959"/>
-      <point x="1004" y="959" type="curve" smooth="yes"/>
-      <point x="1585" y="959"/>
-      <point x="1716" y="882"/>
-      <point x="1692" y="746" type="curve"/>
-      <point x="1692" y="746"/>
-      <point x="1690" y="734"/>
-      <point x="1690" y="734" type="curve"/>
-      <point x="1690" y="734"/>
-      <point x="1706" y="733"/>
-      <point x="1706" y="733" type="curve"/>
-      <point x="1706" y="733"/>
-      <point x="1709" y="746"/>
-      <point x="1709" y="746" type="curve"/>
-      <point x="1735" y="892"/>
-      <point x="1602" y="975"/>
-      <point x="1007" y="975" type="curve" smooth="yes"/>
-      <point x="361" y="975"/>
-      <point x="221" y="907"/>
+      <point x="236" y="900"/>
+      <point x="377" y="958"/>
+      <point x="964" y="958" type="curve" smooth="yes"/>
+      <point x="1505" y="958"/>
+      <point x="1638" y="885"/>
+      <point x="1614" y="746" type="curve"/>
+      <point x="1614" y="746"/>
+      <point x="1612" y="734"/>
+      <point x="1612" y="734" type="curve"/>
+      <point x="1612" y="734"/>
+      <point x="1628" y="733"/>
+      <point x="1628" y="733" type="curve"/>
+      <point x="1628" y="733"/>
+      <point x="1631" y="746"/>
+      <point x="1631" y="746" type="curve"/>
+      <point x="1657" y="895"/>
+      <point x="1522" y="974"/>
+      <point x="967" y="974" type="curve" smooth="yes"/>
+      <point x="364" y="974"/>
+      <point x="221" y="909"/>
       <point x="192" y="741" type="curve"/>
       <point x="192" y="741"/>
       <point x="190" y="732"/>
