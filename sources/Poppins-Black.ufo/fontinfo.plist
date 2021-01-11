@@ -56,7 +56,7 @@
     <key>openTypeHheaDescender</key>
     <integer>-627</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>100</integer>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Ninad Kale (Devanagari), Jonny Pinhorn (Latin)</string>
     <key>openTypeNameLicense</key>
