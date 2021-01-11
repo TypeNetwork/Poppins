@@ -2,7 +2,7 @@
 <glyph name="acircumflex.ss02" format="2">
   <advance width="609"/>
   <outline>
-    <component base="circumflex" xOffset="186"/>
+    <component base="circumflexcomb" xOffset="186"/>
     <component base="a.ss02"/>
   </outline>
   <lib>

@@ -22,8 +22,8 @@
     <string>braceleft.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
-    <key>cedilla</key>
-    <string>cedilla.glif</string>
+    <key>cedillacomb</key>
+    <string>cedillacomb.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -304,16 +304,16 @@
     <string>greaterequal.glif</string>
     <key>h</key>
     <string>h.glif</string>
-    <key>hungarumlaut</key>
-    <string>hungarumlaut.glif</string>
+    <key>hungarumlautcomb</key>
+    <string>hungarumlautcomb.glif</string>
     <key>lessequal</key>
     <string>lessequal.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>n</key>
     <string>n.glif</string>
-    <key>ogonek</key>
-    <string>ogonek.glif</string>
+    <key>ogonekcomb</key>
+    <string>ogonekcomb.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>parenleft</key>

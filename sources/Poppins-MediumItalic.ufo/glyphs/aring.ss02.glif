@@ -2,7 +2,7 @@
 <glyph name="aring.ss02" format="2">
   <advance width="609"/>
   <outline>
-    <component base="ring" xOffset="220"/>
+    <component base="ringcomb" xOffset="220"/>
     <component base="a.ss02"/>
   </outline>
   <lib>

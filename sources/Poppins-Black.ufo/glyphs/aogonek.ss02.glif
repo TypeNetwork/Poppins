@@ -2,7 +2,7 @@
 <glyph name="aogonek.ss02" format="2">
   <advance width="643"/>
   <outline>
-    <component base="ogonek" xOffset="301"/>
+    <component base="ogonekcomb" xOffset="301"/>
     <component base="a.ss02"/>
   </outline>
   <lib>

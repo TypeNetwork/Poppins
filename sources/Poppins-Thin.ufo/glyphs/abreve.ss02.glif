@@ -2,7 +2,7 @@
 <glyph name="abreve.ss02" format="2">
   <advance width="573"/>
   <outline>
-    <component base="breve" xOffset="181"/>
+    <component base="brevecomb" xOffset="181"/>
     <component base="a.ss02"/>
   </outline>
   <lib>

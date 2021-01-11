@@ -18,8 +18,8 @@
     <string>braceright.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
-    <key>cedilla</key>
-    <string>cedilla.glif</string>
+    <key>cedillacomb</key>
+    <string>cedillacomb.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>colon.ss01</key>
@@ -54,12 +54,12 @@
     <string>exclam.glif</string>
     <key>exclam.ss01</key>
     <string>exclam.ss01.glif</string>
-    <key>hungarumlaut</key>
-    <string>hungarumlaut.glif</string>
+    <key>hungarumlautcomb</key>
+    <string>hungarumlautcomb.glif</string>
     <key>nine.ss04</key>
     <string>nine.ss04.glif</string>
-    <key>ogonek</key>
-    <string>ogonek.glif</string>
+    <key>ogonekcomb</key>
+    <string>ogonekcomb.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>period</key>
