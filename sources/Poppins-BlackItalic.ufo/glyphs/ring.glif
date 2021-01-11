@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring" format="2">
   <advance width="283"/>
-  <unicode hex="030A"/>
+  <unicode hex="02DA"/>
   <outline>
     <component base="ringcomb"/>
   </outline>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <advance width="324"/>
-  <unicode hex="0060"/>
+  <unicode hex="0300"/>
   <anchor x="141" y="564" name="_top"/>
   <outline>
     <contour>

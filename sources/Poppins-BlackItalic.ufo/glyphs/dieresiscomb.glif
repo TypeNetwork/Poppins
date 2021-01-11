@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
   <advance width="417"/>
-  <unicode hex="00A8"/>
+  <unicode hex="0308"/>
   <anchor x="259" y="564" name="_top"/>
   <outline>
     <contour>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
   <advance width="306"/>
-  <unicode hex="02C6"/>
+  <unicode hex="0302"/>
   <anchor x="153" y="551" name="_top"/>
   <outline>
     <contour>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
   <advance width="310"/>
-  <unicode hex="02DC"/>
+  <unicode hex="0303"/>
   <anchor x="184" y="540" name="_top"/>
   <outline>
     <contour>

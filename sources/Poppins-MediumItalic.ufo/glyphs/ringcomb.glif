@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
   <advance width="238"/>
-  <unicode hex="02DA"/>
+  <unicode hex="030A"/>
   <anchor x="164" y="551" name="_top"/>
   <outline>
     <contour>

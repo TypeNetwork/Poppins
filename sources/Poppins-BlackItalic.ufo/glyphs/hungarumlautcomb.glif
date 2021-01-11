@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
   <advance width="513"/>
-  <unicode hex="02DD"/>
+  <unicode hex="030B"/>
   <anchor x="252" y="564" name="_top"/>
   <outline>
     <contour>

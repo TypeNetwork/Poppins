@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb" format="2">
   <advance width="321"/>
-  <unicode hex="02D8"/>
+  <unicode hex="0306"/>
   <anchor x="205" y="551" name="_top"/>
   <outline>
     <contour>
