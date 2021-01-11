@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvReph.amI" format="2">
-  <anchor x="-18" y="740" name="_abvm.e"/>
+  <anchor x="-61" y="740" name="_abvm.e"/>
   <outline>
     <contour>
-      <point x="-31" y="740" type="line"/>
-      <point x="-18" y="740" type="line"/>
-      <point x="-8" y="796" type="line" smooth="yes"/>
-      <point x="7" y="885"/>
-      <point x="56" y="932"/>
-      <point x="117" y="932" type="curve" smooth="yes"/>
-      <point x="176" y="932"/>
-      <point x="204" y="889"/>
-      <point x="194" y="832" type="curve"/>
-      <point x="210" y="832" type="line"/>
-      <point x="222" y="899"/>
-      <point x="188" y="948"/>
-      <point x="119" y="948" type="curve" smooth="yes"/>
-      <point x="54" y="948"/>
-      <point x="-3" y="902"/>
-      <point x="-19" y="808" type="curve" smooth="yes"/>
+      <point x="-74" y="740" type="line"/>
+      <point x="-61" y="740" type="line"/>
+      <point x="-51" y="796" type="line" smooth="yes"/>
+      <point x="-36" y="885"/>
+      <point x="13" y="932"/>
+      <point x="74" y="932" type="curve" smooth="yes"/>
+      <point x="133" y="932"/>
+      <point x="161" y="889"/>
+      <point x="151" y="832" type="curve"/>
+      <point x="167" y="832" type="line"/>
+      <point x="179" y="899"/>
+      <point x="145" y="948"/>
+      <point x="76" y="948" type="curve" smooth="yes"/>
+      <point x="11" y="948"/>
+      <point x="-46" y="902"/>
+      <point x="-62" y="808" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

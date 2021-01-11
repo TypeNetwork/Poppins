@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvAnusvara.amI" format="2">
-  <anchor x="0" y="740" name="_abvm.e"/>
+  <anchor x="-68" y="740" name="_abvm.e"/>
   <outline>
-    <component base="dvAnusvara" xOffset="309"/>
+    <component base="dvAnusvara" xOffset="241"/>
   </outline>
 </glyph>
