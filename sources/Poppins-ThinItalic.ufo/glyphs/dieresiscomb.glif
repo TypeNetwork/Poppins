@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb" format="2">
-  <advance width="319"/>
   <unicode hex="0308"/>
   <anchor x="207" y="540" name="_top"/>
   <outline>
@@ -33,4 +32,10 @@
       <point x="266" y="638"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>319</integer>
+    </dict>
+  </lib>
 </glyph>

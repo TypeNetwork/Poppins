@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonekcomb" format="2">
-  <advance width="234"/>
-  <unicode hex="0328"/>
+  <unicode hex="02DB"/>
   <anchor x="209" y="0" name="_ogonek"/>
   <outline>
     <contour>
@@ -29,4 +28,10 @@
       <point x="209" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>234</integer>
+    </dict>
+  </lib>
 </glyph>

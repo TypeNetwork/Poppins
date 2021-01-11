@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
-  <advance width="365"/>
   <unicode hex="030B"/>
   <anchor x="138" y="551" name="_top"/>
   <outline>
@@ -17,4 +16,10 @@
       <point x="244" y="601" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>365</integer>
+    </dict>
+  </lib>
 </glyph>

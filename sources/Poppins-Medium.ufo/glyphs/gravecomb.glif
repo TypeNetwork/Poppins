@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
-  <advance width="254"/>
   <unicode hex="0300"/>
   <anchor x="128" y="551" name="_top"/>
   <outline>
@@ -11,4 +10,10 @@
       <point x="231" y="674" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>254</integer>
+    </dict>
+  </lib>
 </glyph>

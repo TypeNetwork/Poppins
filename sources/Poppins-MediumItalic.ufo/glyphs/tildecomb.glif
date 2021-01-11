@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
-  <advance width="356"/>
   <unicode hex="0303"/>
   <anchor x="218" y="551" name="_top"/>
   <outline>
@@ -27,4 +26,10 @@
       <point x="141" y="725"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>356</integer>
+    </dict>
+  </lib>
 </glyph>
