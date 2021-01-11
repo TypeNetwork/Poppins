@@ -7,6 +7,13 @@
     <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>
+        <key>exclude</key>
+        <array>
+          <string>dvDDH_YA</string>
+          <string>dvDD_YA</string>
+          <string>dvD_NA</string>
+          <string>dvD_BHA</string>
+        </array>
         <key>name</key>
         <string>propagateAnchors</string>
         <key>pre</key>
