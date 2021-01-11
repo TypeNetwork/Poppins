@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvNN_DDA" format="2">
   <advance width="1128"/>
-  <anchor x="972" y="740" name="abvm.e"/>
+  <anchor x="999" y="740" name="abvm.e"/>
   <anchor x="862" y="-99" name="blwm.u"/>
   <anchor x="862" y="-9" name="blwm.virama"/>
   <outline>
