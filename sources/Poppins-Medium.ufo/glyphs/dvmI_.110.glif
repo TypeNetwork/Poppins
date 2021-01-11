@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvmI.110" format="2">
-  <advance width="301"/>
-  <anchor x="1540" y="740" name="abvm.e"/>
+  <advance width="301.0"/>
+  <anchor x="1522.0" y="740.0" name="abvm.e"/>
   <outline>
     <contour>
       <point x="203" y="0" type="curve"/>
@@ -30,28 +30,28 @@
       <point x="203" y="0"/>
     </contour>
     <contour>
-      <point x="202" y="707" type="curve"/>
-      <point x="202" y="707"/>
+      <point x="202" y="708" type="curve"/>
+      <point x="202" y="708"/>
       <point x="202" y="729"/>
       <point x="202" y="729" type="curve"/>
       <point x="202" y="871"/>
       <point x="324" y="929"/>
-      <point x="801" y="929" type="curve" smooth="yes"/>
-      <point x="1283" y="929"/>
-      <point x="1438" y="861"/>
-      <point x="1438" y="720" type="curve"/>
-      <point x="1438" y="720"/>
-      <point x="1438" y="709"/>
-      <point x="1438" y="709" type="curve"/>
-      <point x="1438" y="709"/>
-      <point x="1540" y="708"/>
-      <point x="1540" y="708" type="curve"/>
-      <point x="1540" y="708"/>
-      <point x="1540" y="722"/>
-      <point x="1540" y="722" type="curve"/>
-      <point x="1540" y="905"/>
-      <point x="1365" y="1015"/>
-      <point x="805" y="1015" type="curve" smooth="yes"/>
+      <point x="792" y="929" type="curve" smooth="yes"/>
+      <point x="1266" y="929"/>
+      <point x="1420" y="861"/>
+      <point x="1420" y="720" type="curve"/>
+      <point x="1420" y="720"/>
+      <point x="1420" y="709"/>
+      <point x="1420" y="709" type="curve"/>
+      <point x="1420" y="709"/>
+      <point x="1522" y="709"/>
+      <point x="1522" y="709" type="curve"/>
+      <point x="1522" y="709"/>
+      <point x="1522" y="722"/>
+      <point x="1522" y="722" type="curve"/>
+      <point x="1522" y="905"/>
+      <point x="1348" y="1015"/>
+      <point x="797" y="1015" type="curve" smooth="yes"/>
       <point x="253" y="1015"/>
       <point x="99" y="920"/>
       <point x="99" y="728" type="curve"/>
@@ -59,7 +59,7 @@
       <point x="99" y="708"/>
       <point x="99" y="708" type="curve"/>
       <point x="99" y="708"/>
-      <point x="202" y="707"/>
+      <point x="202" y="708"/>
     </contour>
   </outline>
 </glyph>

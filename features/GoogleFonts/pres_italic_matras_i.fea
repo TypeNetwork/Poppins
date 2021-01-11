@@ -158,323 +158,165 @@ dvmI.156
 dvmI.157
 dvmI.158
 dvmI.159
-dvmI.160
-dvmI.161
-dvmI.162
-dvmI.163
-dvmI.164
-dvmI.165
-dvmI.166
-dvmI.167
-dvmI.168
-dvmI.169
-dvmI.170
-dvmI.171
-dvmI.172
-dvmI.173
-dvmI.174
-dvmI.175
-dvmI.176
-dvmI.177
-dvmI.178
-dvmI.179
-dvmI.180
-dvmI.181
-dvmI.182
-dvmI.183
-dvmI.184
-dvmI.185
-dvmI.186
-dvmI.187
-dvmI.188
-dvmI.189
-dvmI.190
-dvmI.191
-dvmI.192
-dvmI.193
-dvmI.194
-dvmI.195
-dvmI.196
-dvmI.197
-dvmI.198
-dvmI.199
-dvmI.200
-dvmI.201
-dvmI.202
-dvmI.203
-dvmI.204
-dvmI.205
-dvmI.206
-dvmI.207
-dvmI.208
-dvmI.209
-dvmI.210
-dvmI.211
-dvmI.212
-dvmI.213
-dvmI.214
-dvmI.215
-dvmI.216
-dvmI.217
-dvmI.218
-dvmI.219
-dvmI.220
-dvmI.221
-dvmI.222
-dvmI.223
-dvmI.224
-dvmI.225
-dvmI.226
-dvmI.227
-dvmI.228
-dvmI.229
-dvmI.230
-dvmI.231
-dvmI.232
-dvmI.233
-dvmI.234
-dvmI.235
-dvmI.236
-dvmI.237
-dvmI.238];
-
+];
 lookup matras_i {
-sub dvmI' [dvBA dvB_RA] by dvmI.001;
-sub dvmI' [dvBHA dvMA dvM_RA] by dvmI.002;
-sub dvmI' [dvBH_LA dvM_LA dvM_NA] by dvmI.003;
-sub dvmI' [dvBH_NA dvN_BHA] by dvmI.004;
-sub dvmI' [dvBH_RA dvK_SSA dvSH_RA] by dvmI.005;
-sub dvmI' [dvBH_R_YA dvBH_YA dvB_BH_RA dvM_YA] by dvmI.006;
-sub dvmI' [dvBH_VA dvM_VA dvP_SA dvSH_KA dvSH_KxA] by dvmI.007;
-sub dvmI' [dvB_BA dvB_VA] by dvmI.008;
-sub dvmI' [dvB_BHA dvN_DHA dvN_DH_RA dvT_K_SSA] by dvmI.009;
-sub dvmI' [dvB_DA] by dvmI.010;
-sub dvmI' [dvB_DHA dvB_TA dvC_CA dvS_DA] by dvmI.011;
-sub dvmI' [dvB_DH_VA dvK_LA dvK_NA] by dvmI.012;
-sub dvmI' [dvB_JA dvB_JxA dvL_DDHA] by dvmI.013;
-sub dvmI' [dvB_JHA dvN_NA dvS_LA] by dvmI.014;
-sub dvmI' [dvB_J_YA] by dvmI.015;
-sub dvmI' [dvB_LA dvC_YA dvJ_KA dvV_LA] by dvmI.016;
-sub dvmI' [dvB_L_YA] by dvmI.017;
-sub dvmI' [dvB_NA dvGH_MA dvTH_YA dvT_SA] by dvmI.018;
-sub dvmI' [dvB_SA dvL_TTA] by dvmI.019;
-sub dvmI' [dvB_SHA dvSH_TA dvSS_NNA] by dvmI.020;
-sub dvmI' [dvB_YA dvS_KA dvS_K_RA dvTH_VA dvT_R_YA] by dvmI.021;
-sub dvmI' [dvCA dvC_RA dvYA dvY_RA] by dvmI.022;
-sub dvmI' [dvCHA dvCH_RA] by dvmI.023;
-sub dvmI' [dvCH_R_YA dvCH_YA dvL_TA dvPH_PHA dvPHx_PHxA] by dvmI.024;
-sub dvmI' [dvC_CHA dvC_CH_VA dvGH_YA] by dvmI.025;
-sub dvmI' [dvC_MA dvDH_MA dvN_THA dvTT_YA] by dvmI.026;
-sub dvmI' [dvC_NA dvJ_TA dvN_CHA dvN_YA dvY_NA] by dvmI.027;
-sub dvmI' [dvDA dvDDHA dvDDH_RA dvDDHxA dvD_BA dvD_B_RA dvD_RA dvD_VA] by dvmI.028;
-sub dvmI' [dvDDA dvDD_DDA dvDD_RA dvDD_VA dvDDxA dvNGA dvNG_RA] by dvmI.029;
-sub dvmI' [dvDDH_DDHA dvDDH_VA dvTT_TTHA dvTT_VA] by dvmI.030;
-sub dvmI' [dvDDH_YA] by dvmI.031;
-sub dvmI' [dvDD_DDHA dvHA dvH_RA] by dvmI.032;
-sub dvmI' [dvDD_YA dvM_PA dvM_P_RA dvT_MA] by dvmI.033;
-sub dvmI' [dvDHA dvDH_RA] by dvmI.034;
-sub dvmI' [dvDH_NA dvNY_CA dvS_YA] by dvmI.035;
-sub dvmI' [dvDH_N_YA] by dvmI.036;
-sub dvmI' [dvDH_VA] by dvmI.037;
-sub dvmI' [dvDH_YA dvS_T_RA dvY_YA] by dvmI.038;
-sub dvmI' [dvD_BHA] by dvmI.039;
-sub dvmI' [dvD_DA] by dvmI.040;
-sub dvmI' [dvD_DHA dvD_GHA dvH_YA] by dvmI.041;
-sub dvmI' [dvD_GA] by dvmI.042;
-sub dvmI' [dvD_G_RA] by dvmI.043;
-sub dvmI' [dvD_MA dvN_RA dvSHA] by dvmI.044;
-sub dvmI' [dvD_NA] by dvmI.045;
-sub dvmI' [dvD_YA dvTA dvT_RA] by dvmI.046;
-sub dvmI' [dvEyelash_HA dvTHA dvTH_RA] by dvmI.047;
-sub dvmI' [dvEyelash_YA] by dvmI.048;
-sub dvmI' [dvGA dvG_RA dvGxA dvGx_RA] by dvmI.049;
-sub dvmI' [dvGHA dvGH_RA] by dvmI.050;
-sub dvmI' [dvGH_NA dvJ_VA dvS_TA] by dvmI.051;
-sub dvmI' [dvG_BA] by dvmI.052;
-sub dvmI' [dvG_BHA] by dvmI.053;
-sub dvmI' [dvG_BH_YA] by dvmI.054;
-sub dvmI' [dvG_DA] by dvmI.055;
-sub dvmI' [dvG_DHA] by dvmI.056;
-sub dvmI' [dvG_DH_VA] by dvmI.057;
-sub dvmI' [dvG_DH_YA] by dvmI.058;
-sub dvmI' [dvG_GA] by dvmI.059;
-sub dvmI' [dvG_GHA] by dvmI.060;
-sub dvmI' [dvG_JA] by dvmI.061;
-sub dvmI' [dvG_LA] by dvmI.062;
-sub dvmI' [dvG_MA] by dvmI.063;
-sub dvmI' [dvG_NA] by dvmI.064;
-sub dvmI' [dvG_NNA] by dvmI.065;
-sub dvmI' [dvG_N_YA] by dvmI.066;
-sub dvmI' [dvG_R_YA] by dvmI.067;
-sub dvmI' [dvG_SA] by dvmI.068;
-sub dvmI' [dvG_VA] by dvmI.069;
-sub dvmI' [dvG_YA] by dvmI.070;
-sub dvmI' [dvH_LA] by dvmI.071;
-sub dvmI' [dvH_MA] by dvmI.072;
-sub dvmI' [dvH_NA dvK_SS_YA dvSH_NA] by dvmI.073;
-sub dvmI' [dvH_NNA] by dvmI.074;
-sub dvmI' [dvH_VA dvPA dvP_RA] by dvmI.075;
-sub dvmI' [dvJA dvJ_RA dvJxA dvJx_RA] by dvmI.076;
-sub dvmI' [dvJHA dvNY_RA] by dvmI.077;
-sub dvmI' [dvJH_MA] by dvmI.078;
-sub dvmI' [dvJH_NA] by dvmI.079;
-sub dvmI' [dvJH_RA] by dvmI.080;
-sub dvmI' [dvJH_YA dvJ_YA dvJx_YA dvTH_NA] by dvmI.081;
-sub dvmI' [dvJ_BA dvNN_VA] by dvmI.082;
-sub dvmI' [dvJ_DA] by dvmI.083;
-sub dvmI' [dvJ_DDA dvS_TTA] by dvmI.084;
-sub dvmI' [dvJ_JA dvJ_JHA dvJx_JxA] by dvmI.085;
-sub dvmI' [dvJ_J_NYA dvN_MA dvS_MA] by dvmI.086;
-sub dvmI' [dvJ_J_VA] by dvmI.087;
-sub dvmI' [dvJ_J_YA] by dvmI.088;
-sub dvmI' [dvJ_MA dvSH_SHA] by dvmI.089;
-sub dvmI' [dvJ_NA dvNY_SHA] by dvmI.090;
-sub dvmI' [dvJ_NYA dvSH_CA dvSH_VA] by dvmI.091;
-sub dvmI' [dvJ_NY_YA dvS_NA] by dvmI.092;
-sub dvmI' [dvJ_TTA dvP_YA dvSS_YA dvT_YA] by dvmI.093;
-sub dvmI' [dvKA dvK_RA dvKxA] by dvmI.094;
-sub dvmI' [dvKHA dvKH_RA dvKHxA dvKHx_RA] by dvmI.095;
-sub dvmI' [dvKH_KHA] by dvmI.096;
-sub dvmI' [dvKH_MA dvKHx_MA] by dvmI.097;
-sub dvmI' [dvKH_NA dvKH_SHA dvKHx_SHA dvL_MA] by dvmI.098;
-sub dvmI' [dvKH_TA dvKHx_TA dvS_JA] by dvmI.099;
-sub dvmI' [dvKH_VA dvKHx_VA dvL_BA] by dvmI.100;
-sub dvmI' [dvKH_YA dvKHx_YA dvL_THA] by dvmI.101;
-sub dvmI' [dvKHx_SA dvL_JA dvL_JxA] by dvmI.102;
-sub dvmI' [dvK_CA dvK_PA dvK_PHA dvK_P_RA dvKx_PHA dvKx_PHxA] by dvmI.103;
-sub dvmI' [dvK_DA] by dvmI.104;
-sub dvmI' [dvK_JA dvK_NNA] by dvmI.105;
-sub dvmI' [dvK_KA dvKx_KxA] by dvmI.106;
-sub dvmI' [dvK_KHA] by dvmI.107;
-sub dvmI' [dvK_MA dvKx_MA dvPH_NA] by dvmI.108;
-sub dvmI' [dvK_SA] by dvmI.109;
-sub dvmI' [dvK_SHA] by dvmI.110;
-sub dvmI' [dvK_SS_MA dvM_BH_RA] by dvmI.111;
-sub dvmI' [dvK_SS_M_YA] by dvmI.112;
-sub dvmI' [dvK_SS_VA dvN_TA] by dvmI.113;
-sub dvmI' [dvK_S_DDA] by dvmI.114;
-sub dvmI' [dvK_S_P_LA] by dvmI.115;
-sub dvmI' [dvK_S_P_RA] by dvmI.116;
-sub dvmI' [dvK_S_TA] by dvmI.117;
-sub dvmI' [dvK_S_TTA] by dvmI.118;
-sub dvmI' [dvK_TA dvT_TA] by dvmI.119;
-sub dvmI' [dvK_THA] by dvmI.120;
-sub dvmI' [dvK_TTA] by dvmI.121;
-sub dvmI' [dvK_T_RA] by dvmI.122;
-sub dvmI' [dvK_T_VA] by dvmI.123;
-sub dvmI' [dvK_T_YA dvT_K_YA] by dvmI.124;
-sub dvmI' [dvK_VA] by dvmI.125;
-sub dvmI' [dvK_V_YA] by dvmI.126;
-sub dvmI' [dvK_YA] by dvmI.127;
-sub dvmI' [dvKx_BA] by dvmI.128;
-sub dvmI' [dvKx_RA] by dvmI.129;
-sub dvmI' [dvKx_TA] by dvmI.130;
-sub dvmI' [dvLA dvL_RA dvNA] by dvmI.131;
-sub dvmI' [dvLLA dvLL_RA dvP_TTHA] by dvmI.132;
-sub dvmI' [dvLL_YA] by dvmI.133;
-sub dvmI' [dvL_BHA] by dvmI.134;
-sub dvmI' [dvL_DA dvL_D_RA] by dvmI.135;
-sub dvmI' [dvL_DDA] by dvmI.136;
-sub dvmI' [dvL_GA] by dvmI.137;
-sub dvmI' [dvL_HA] by dvmI.138;
-sub dvmI' [dvL_KA dvPH_TTA] by dvmI.139;
-sub dvmI' [dvL_KHA dvT_S_VA] by dvmI.140;
-sub dvmI' [dvL_K_YA] by dvmI.141;
-sub dvmI' [dvL_LA] by dvmI.142;
-sub dvmI' [dvL_L_YA dvN_K_SA] by dvmI.143;
-sub dvmI' [dvL_PA] by dvmI.144;
-sub dvmI' [dvL_PHA dvNY_CHA] by dvmI.145;
-sub dvmI' [dvL_SA dvPH_YA] by dvmI.146;
-sub dvmI' [dvL_TH_YA] by dvmI.147;
-sub dvmI' [dvL_TTHA dvV_YA] by dvmI.148;
-sub dvmI' [dvL_VA] by dvmI.149;
-sub dvmI' [dvL_V_DDA] by dvmI.150;
-sub dvmI' [dvL_YA] by dvmI.151;
-sub dvmI' [dvM_BA dvM_B_RA] by dvmI.152;
-sub dvmI' [dvM_BHA] by dvmI.153;
-sub dvmI' [dvM_BH_VA] by dvmI.154;
-sub dvmI' [dvM_BH_YA] by dvmI.155;
-sub dvmI' [dvM_B_YA] by dvmI.156;
-sub dvmI' [dvM_DA dvNN_TTA] by dvmI.157;
-sub dvmI' [dvM_HA] by dvmI.158;
-sub dvmI' [dvM_MA] by dvmI.159;
-sub dvmI' [dvM_SA dvSH_LA] by dvmI.160;
-sub dvmI' [dvM_SHA dvSH_MA] by dvmI.161;
-sub dvmI' [dvM_TA] by dvmI.162;
-sub dvmI' [dvNNA dvNN_RA] by dvmI.163;
-sub dvmI' [dvNN_DDA dvSH_TTA] by dvmI.164;
-sub dvmI' [dvNN_DDHA] by dvmI.165;
-sub dvmI' [dvNN_MA] by dvmI.166;
-sub dvmI' [dvNN_NNA] by dvmI.167;
-sub dvmI' [dvNN_TTHA dvSS_SSA] by dvmI.168;
-sub dvmI' [dvNN_YA] by dvmI.169;
-sub dvmI' [dvNYA] by dvmI.170;
-sub dvmI' [dvNY_JA] by dvmI.171;
-sub dvmI' [dvN_BH_VA dvN_DH_YA] by dvmI.172;
-sub dvmI' [dvN_BH_YA] by dvmI.173;
-sub dvmI' [dvN_CA dvS_PA dvS_PHA dvS_P_RA dvS_VA] by dvmI.174;
-sub dvmI' [dvN_DA dvN_D_RA dvN_D_VA] by dvmI.175;
-sub dvmI' [dvN_DDA dvP_TA] by dvmI.176;
-sub dvmI' [dvN_DH_VA] by dvmI.177;
-sub dvmI' [dvN_HA dvSS_VA dvT_VA] by dvmI.178;
-sub dvmI' [dvN_KA] by dvmI.179;
-sub dvmI' [dvN_M_YA] by dvmI.180;
-sub dvmI' [dvN_N_YA] by dvmI.181;
-sub dvmI' [dvN_PA dvN_P_RA dvP_LA dvP_NA dvT_THA dvT_T_YA] by dvmI.182;
-sub dvmI' [dvN_PHA dvN_PH_RA] by dvmI.183;
-sub dvmI' [dvN_SA dvS_SA dvT_KHA dvT_KH_RA] by dvmI.184;
-sub dvmI' [dvN_S_M_YA] by dvmI.185;
-sub dvmI' [dvN_S_TTA] by dvmI.186;
-sub dvmI' [dvN_S_YA] by dvmI.187;
-sub dvmI' [dvN_TH_VA dvT_S_YA] by dvmI.188;
-sub dvmI' [dvN_TH_YA] by dvmI.189;
-sub dvmI' [dvN_TTA] by dvmI.190;
-sub dvmI' [dvN_T_RA dvT_LA dvT_NA] by dvmI.191;
-sub dvmI' [dvN_T_SA dvT_S_NA] by dvmI.192;
-sub dvmI' [dvN_T_YA] by dvmI.193;
-sub dvmI' [dvN_VA] by dvmI.194;
-sub dvmI' [dvPHA dvPH_RA dvPHxA] by dvmI.195;
-sub dvmI' [dvPH_JA dvPHx_JxA] by dvmI.196;
-sub dvmI' [dvPH_LA] by dvmI.197;
-sub dvmI' [dvPH_PA] by dvmI.198;
-sub dvmI' [dvPH_SHA] by dvmI.199;
-sub dvmI' [dvPH_TA dvPHx_TA] by dvmI.200;
-sub dvmI' [dvPHx_RA] by dvmI.201;
-sub dvmI' [dvPHx_SA] by dvmI.202;
-sub dvmI' [dvP_MA] by dvmI.203;
-sub dvmI' [dvP_PA] by dvmI.204;
-sub dvmI' [dvP_PHA dvSS_PA dvSS_PHA dvSS_P_RA dvT_PA dvT_P_RA] by dvmI.205;
-sub dvmI' [dvP_TTA] by dvmI.206;
-sub dvmI' [dvP_T_YA] by dvmI.207;
-sub dvmI' [dvP_VA] by dvmI.208;
-sub dvmI' [dvRA dvRxA] by dvmI.209;
-sub dvmI' [dvSA] by dvmI.210;
-sub dvmI' [dvSH_CHA dvS_THA] by dvmI.211;
-sub dvmI' [dvSH_YA dvTTH_YA] by dvmI.212;
-sub dvmI' [dvSSA dvSS_RA] by dvmI.213;
-sub dvmI' [dvSS_KA dvSS_K_RA dvT_KA dvT_K_RA] by dvmI.214;
-sub dvmI' [dvSS_MA] by dvmI.215;
-sub dvmI' [dvSS_M_YA dvT_M_YA] by dvmI.216;
-sub dvmI' [dvSS_NN_YA] by dvmI.217;
-sub dvmI' [dvSS_TTA dvSS_TT_RA dvSS_TT_VA] by dvmI.218;
-sub dvmI' [dvSS_TTHA dvSS_TTH_RA] by dvmI.219;
-sub dvmI' [dvSS_TTH_YA dvSS_TT_YA] by dvmI.220;
-sub dvmI' [dvS_BA dvV_NA] by dvmI.221;
-sub dvmI' [dvS_KHA] by dvmI.222;
-sub dvmI' [dvS_K_VA] by dvmI.223;
-sub dvmI' [dvS_M_YA] by dvmI.224;
-sub dvmI' [dvS_RA] by dvmI.225;
-sub dvmI' [dvS_TH_YA] by dvmI.226;
-sub dvmI' [dvS_T_VA] by dvmI.227;
-sub dvmI' [dvS_T_YA] by dvmI.228;
-sub dvmI' [dvTTA dvTT_RA dvTT_TTA] by dvmI.229;
-sub dvmI' [dvTTHA dvTTH_RA dvTTH_TTHA dvTTH_VA] by dvmI.230;
-sub dvmI' [dvT_K_VA] by dvmI.231;
-sub dvmI' [dvT_N_YA] by dvmI.232;
-sub dvmI' [dvT_PHA] by dvmI.233;
-sub dvmI' [dvT_P_LA] by dvmI.234;
-sub dvmI' [dvT_T_VA] by dvmI.235;
-sub dvmI' [dvVA dvV_RA] by dvmI.236;
-sub dvmI' [dvV_HA] by dvmI.237;
-sub dvmI' [dvV_VA] by dvmI.238;
+sub dvmI' [dvBA dvB_RA dvH_LA] by dvmI.001;
+sub dvmI' [dvBHA dvBH_RA dvK_SSA dvMA dvM_RA dvSH_CA dvSH_RA dvSH_VA] by dvmI.002;
+sub dvmI' [dvBH_LA dvBH_NA dvM_LA dvM_NA dvN_BHA] by dvmI.003;
+sub dvmI' [dvBH_R_YA dvBH_YA dvB_BH_RA dvC_MA dvC_NA dvDH_MA dvM_YA dvN_THA dvN_YA dvTT_YA] by dvmI.004;
+sub dvmI' [dvBH_VA dvK_SS_VA dvM_BA dvM_B_RA dvN_TA dvY_YA] by dvmI.005;
+sub dvmI' [dvB_BA dvB_VA] by dvmI.006;
+sub dvmI' [dvB_BHA dvN_DHA dvN_DH_RA dvSH_TA dvSS_NNA dvT_K_SSA] by dvmI.007;
+sub dvmI' [dvB_DA] by dvmI.008;
+sub dvmI' [dvB_DHA dvN_KA dvSS_YA dvT_YA] by dvmI.009;
+sub dvmI' [dvB_DH_VA dvK_LA dvK_NA dvPHx_SA] by dvmI.010;
+sub dvmI' [dvB_JA dvB_JxA dvB_SA dvL_DDHA dvL_TTA] by dvmI.011;
+sub dvmI' [dvB_JHA dvM_SA dvN_NA dvSH_LA dvS_LA dvS_MA dvS_NA] by dvmI.012;
+sub dvmI' [dvB_J_YA] by dvmI.013;
+sub dvmI' [dvB_LA dvC_YA dvGH_NA dvS_BA dvV_LA dvV_NA] by dvmI.014;
+sub dvmI' [dvB_L_YA dvL_V_DDA] by dvmI.015;
+sub dvmI' [dvB_NA dvB_SHA dvGH_MA dvJ_TA dvN_CHA dvTH_YA dvT_SA dvY_NA] by dvmI.016;
+sub dvmI' [dvB_TA dvC_CA dvDH_VA dvS_DA] by dvmI.017;
+sub dvmI' [dvB_YA dvC_CHA dvC_CH_VA dvGH_YA dvTH_VA] by dvmI.018;
+sub dvmI' [dvCA dvC_RA dvDHA dvDH_RA dvK_TA dvYA dvY_RA] by dvmI.019;
+sub dvmI' [dvCHA dvCH_RA] by dvmI.020;
+sub dvmI' [dvCH_R_YA dvCH_YA dvKH_VA dvKHx_VA dvK_PA dvK_P_RA dvL_BA dvPH_PHA dvPHx_PHxA] by dvmI.021;
+sub dvmI' [dvDA dvD_BA dvD_B_RA dvD_RA dvD_VA] by dvmI.022;
+sub dvmI' [dvDDA dvDDHA dvDDH_RA dvDDH_VA dvDDHxA dvDD_DDA dvDD_RA dvDD_VA dvDDxA dvNGA dvNG_RA dvTTA dvTT_RA dvTT_TTA dvTT_TTHA dvTT_VA] by dvmI.023;
+sub dvmI' [dvDDH_DDHA dvDD_DDHA dvHA dvH_RA] by dvmI.024;
+sub dvmI' [dvDDH_YA dvTTH_YA] by dvmI.025;
+sub dvmI' [dvDD_YA dvM_PA dvM_P_RA dvM_TA dvN_T_RA dvSS_MA dvT_LA dvT_MA dvT_NA] by dvmI.026;
+sub dvmI' [dvDH_NA dvNY_CA dvS_YA] by dvmI.027;
+sub dvmI' [dvDH_N_YA] by dvmI.028;
+sub dvmI' [dvDH_YA dvJ_KA dvM_VA dvN_CA dvN_VA dvP_SA dvS_PA dvS_PHA dvS_P_RA dvS_T_RA dvS_VA] by dvmI.029;
+sub dvmI' [dvD_BHA] by dvmI.030;
+sub dvmI' [dvD_DA dvRA dvRxA] by dvmI.031;
+sub dvmI' [dvD_DHA dvD_GHA dvH_YA] by dvmI.032;
+sub dvmI' [dvD_GA dvD_G_RA dvPHA dvPH_RA dvPHxA] by dvmI.033;
+sub dvmI' [dvD_MA dvJ_NYA dvNYA dvN_RA dvSHA] by dvmI.034;
+sub dvmI' [dvD_NA dvJH_MA] by dvmI.035;
+sub dvmI' [dvD_YA] by dvmI.036;
+sub dvmI' [dvEyelash_HA dvLA dvL_RA dvNA dvTHA dvTH_RA] by dvmI.037;
+sub dvmI' [dvEyelash_YA] by dvmI.038;
+sub dvmI' [dvGA dvG_RA dvGxA dvGx_RA] by dvmI.039;
+sub dvmI' [dvGHA dvGH_RA] by dvmI.040;
+sub dvmI' [dvG_BA dvG_VA] by dvmI.041;
+sub dvmI' [dvG_BHA] by dvmI.042;
+sub dvmI' [dvG_BH_YA] by dvmI.043;
+sub dvmI' [dvG_DA] by dvmI.044;
+sub dvmI' [dvG_DHA] by dvmI.045;
+sub dvmI' [dvG_DH_VA] by dvmI.046;
+sub dvmI' [dvG_DH_YA dvSS_NN_YA] by dvmI.047;
+sub dvmI' [dvG_GA] by dvmI.048;
+sub dvmI' [dvG_GHA] by dvmI.049;
+sub dvmI' [dvG_JA] by dvmI.050;
+sub dvmI' [dvG_LA dvG_NA] by dvmI.051;
+sub dvmI' [dvG_MA] by dvmI.052;
+sub dvmI' [dvG_NNA] by dvmI.053;
+sub dvmI' [dvG_N_YA] by dvmI.054;
+sub dvmI' [dvG_R_YA] by dvmI.055;
+sub dvmI' [dvG_SA] by dvmI.056;
+sub dvmI' [dvG_YA] by dvmI.057;
+sub dvmI' [dvH_MA dvSH_NA] by dvmI.058;
+sub dvmI' [dvH_NA dvK_SS_YA] by dvmI.059;
+sub dvmI' [dvH_NNA dvKx_RA dvTA dvT_RA] by dvmI.060;
+sub dvmI' [dvH_VA dvPA dvP_RA dvSSA dvSS_RA] by dvmI.061;
+sub dvmI' [dvJA dvJHA dvJ_RA dvJxA dvJx_RA] by dvmI.062;
+sub dvmI' [dvJH_NA dvJ_NA dvNY_SHA] by dvmI.063;
+sub dvmI' [dvJH_RA dvKHA dvKH_RA dvKHxA dvKHx_RA] by dvmI.064;
+sub dvmI' [dvJH_YA dvJ_NY_YA dvJ_YA dvJx_YA dvSH_CHA dvTH_NA] by dvmI.065;
+sub dvmI' [dvJ_BA dvJ_VA dvNN_VA dvS_TA] by dvmI.066;
+sub dvmI' [dvJ_DA dvL_TTHA dvS_KA dvS_K_RA dvT_R_YA] by dvmI.067;
+sub dvmI' [dvJ_DDA dvS_TTA] by dvmI.068;
+sub dvmI' [dvJ_JA dvJ_JHA dvJx_JxA dvL_YA dvNY_JA] by dvmI.069;
+sub dvmI' [dvJ_J_NYA dvJ_MA dvSH_SHA] by dvmI.070;
+sub dvmI' [dvJ_J_VA] by dvmI.071;
+sub dvmI' [dvJ_J_YA] by dvmI.072;
+sub dvmI' [dvJ_TTA dvNN_DDA dvN_DA dvP_YA dvT_T_VA] by dvmI.073;
+sub dvmI' [dvKA dvK_RA dvKxA dvVA dvV_RA] by dvmI.074;
+sub dvmI' [dvKH_KHA dvT_N_YA] by dvmI.075;
+sub dvmI' [dvKH_MA dvKHx_MA] by dvmI.076;
+sub dvmI' [dvKH_NA dvL_MA] by dvmI.077;
+sub dvmI' [dvKH_SHA dvKHx_SHA dvL_BHA] by dvmI.078;
+sub dvmI' [dvKH_TA dvKHx_TA dvL_TA dvPH_PA dvS_JA] by dvmI.079;
+sub dvmI' [dvKH_YA dvKHx_YA dvL_THA] by dvmI.080;
+sub dvmI' [dvKHx_SA dvL_JA dvL_JxA dvP_T_YA] by dvmI.081;
+sub dvmI' [dvK_CA dvK_PHA dvKx_PHA dvKx_PHxA] by dvmI.082;
+sub dvmI' [dvK_DA] by dvmI.083;
+sub dvmI' [dvK_JA dvK_NNA dvS_T_VA] by dvmI.084;
+sub dvmI' [dvK_KA dvK_VA dvKx_KxA] by dvmI.085;
+sub dvmI' [dvK_KHA] by dvmI.086;
+sub dvmI' [dvK_MA dvK_SHA dvKx_MA dvPH_JA dvPHx_JxA] by dvmI.087;
+sub dvmI' [dvK_SA] by dvmI.088;
+sub dvmI' [dvK_SS_MA] by dvmI.089;
+sub dvmI' [dvK_SS_M_YA] by dvmI.090;
+sub dvmI' [dvK_S_DDA] by dvmI.091;
+sub dvmI' [dvK_S_P_LA] by dvmI.092;
+sub dvmI' [dvK_S_P_RA] by dvmI.093;
+sub dvmI' [dvK_S_TA] by dvmI.094;
+sub dvmI' [dvK_S_TTA] by dvmI.095;
+sub dvmI' [dvK_THA] by dvmI.096;
+sub dvmI' [dvK_TTA] by dvmI.097;
+sub dvmI' [dvK_T_RA] by dvmI.098;
+sub dvmI' [dvK_T_VA dvT_K_VA] by dvmI.099;
+sub dvmI' [dvK_T_YA dvT_K_YA] by dvmI.100;
+sub dvmI' [dvK_V_YA] by dvmI.101;
+sub dvmI' [dvK_YA dvLL_YA] by dvmI.102;
+sub dvmI' [dvKx_BA] by dvmI.103;
+sub dvmI' [dvKx_TA] by dvmI.104;
+sub dvmI' [dvLLA dvLL_RA dvP_TTHA dvSS_TTHA dvSS_TTH_RA] by dvmI.105;
+sub dvmI' [dvL_DA dvL_D_RA] by dvmI.106;
+sub dvmI' [dvL_DDA dvL_HA] by dvmI.107;
+sub dvmI' [dvL_GA dvNN_NNA] by dvmI.108;
+sub dvmI' [dvL_KA dvL_VA dvPH_TTA] by dvmI.109;
+sub dvmI' [dvL_KHA dvN_S_TTA dvT_S_VA] by dvmI.110;
+sub dvmI' [dvL_K_YA] by dvmI.111;
+sub dvmI' [dvL_LA dvPH_YA] by dvmI.112;
+sub dvmI' [dvL_L_YA dvN_K_SA] by dvmI.113;
+sub dvmI' [dvL_PA dvL_PHA dvNY_CHA] by dvmI.114;
+sub dvmI' [dvL_SA] by dvmI.115;
+sub dvmI' [dvL_TH_YA] by dvmI.116;
+sub dvmI' [dvM_BHA dvM_BH_RA dvM_MA] by dvmI.117;
+sub dvmI' [dvM_BH_VA] by dvmI.118;
+sub dvmI' [dvM_BH_YA] by dvmI.119;
+sub dvmI' [dvM_B_YA dvN_BH_VA dvN_DH_YA] by dvmI.120;
+sub dvmI' [dvM_DA dvNN_TTA dvN_D_RA dvSH_TTA] by dvmI.121;
+sub dvmI' [dvM_HA dvN_D_VA dvN_TTA] by dvmI.122;
+sub dvmI' [dvM_SHA dvN_MA dvSH_MA] by dvmI.123;
+sub dvmI' [dvNNA dvNN_RA dvNY_RA dvS_RA] by dvmI.124;
+sub dvmI' [dvNN_DDHA dvN_PA dvN_PHA dvN_PH_RA dvN_P_RA dvP_NA dvT_THA dvT_T_YA] by dvmI.125;
+sub dvmI' [dvNN_MA] by dvmI.126;
+sub dvmI' [dvNN_TTHA dvSS_PA dvSS_P_RA dvSS_SSA] by dvmI.127;
+sub dvmI' [dvNN_YA] by dvmI.128;
+sub dvmI' [dvN_BH_YA] by dvmI.129;
+sub dvmI' [dvN_DDA dvP_TA dvSS_VA dvT_VA] by dvmI.130;
+sub dvmI' [dvN_DH_VA dvN_T_YA] by dvmI.131;
+sub dvmI' [dvN_HA] by dvmI.132;
+sub dvmI' [dvN_M_YA] by dvmI.133;
+sub dvmI' [dvN_N_YA dvN_S_YA dvS_M_YA] by dvmI.134;
+sub dvmI' [dvN_SA dvS_SA dvT_KHA dvT_KH_RA] by dvmI.135;
+sub dvmI' [dvN_S_M_YA] by dvmI.136;
+sub dvmI' [dvN_TH_VA dvS_T_YA dvT_S_YA] by dvmI.137;
+sub dvmI' [dvN_TH_YA dvN_T_SA dvT_S_NA] by dvmI.138;
+sub dvmI' [dvPH_LA dvT_P_LA] by dvmI.139;
+sub dvmI' [dvPH_NA dvPH_SHA] by dvmI.140;
+sub dvmI' [dvPH_TA dvPHx_TA] by dvmI.141;
+sub dvmI' [dvPHx_RA] by dvmI.142;
+sub dvmI' [dvP_LA dvSH_KA dvSH_KxA] by dvmI.143;
+sub dvmI' [dvP_MA] by dvmI.144;
+sub dvmI' [dvP_PA] by dvmI.145;
+sub dvmI' [dvP_PHA dvSS_PHA dvT_PA dvT_PHA dvT_P_RA] by dvmI.146;
+sub dvmI' [dvP_TTA dvSS_TTA dvSS_TT_RA dvSS_TT_VA] by dvmI.147;
+sub dvmI' [dvP_VA dvSS_KA dvSS_K_RA dvT_KA dvT_K_RA] by dvmI.148;
+sub dvmI' [dvSA] by dvmI.149;
+sub dvmI' [dvSH_YA dvS_THA] by dvmI.150;
+sub dvmI' [dvSS_M_YA dvSS_TTH_YA dvSS_TT_YA dvT_M_YA] by dvmI.151;
+sub dvmI' [dvS_KHA] by dvmI.152;
+sub dvmI' [dvS_K_VA] by dvmI.153;
+sub dvmI' [dvS_TH_YA] by dvmI.154;
+sub dvmI' [dvTTHA dvTTH_RA dvTTH_TTHA dvTTH_VA] by dvmI.155;
+sub dvmI' [dvT_TA] by dvmI.156;
+sub dvmI' [dvV_HA] by dvmI.157;
+sub dvmI' [dvV_VA] by dvmI.158;
+sub dvmI' [dvV_YA] by dvmI.159;
 } matras_i;
