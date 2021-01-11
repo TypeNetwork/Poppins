@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="indianrupee" format="2">
   <advance width="577"/>
+  <unicode hex="20B9"/>
   <outline>
     <contour>
       <point x="489" y="644" type="line"/>
