@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvmI.069" format="2">
-  <advance width="301.0"/>
-  <anchor x="1394.8305885279622" y="740.0" name="abvm.e"/>
+  <advance width="301"/>
+  <anchor x="1394.831" y="740" name="abvm.e"/>
   <outline>
     <contour>
       <point x="138" y="0" type="curve"/>
