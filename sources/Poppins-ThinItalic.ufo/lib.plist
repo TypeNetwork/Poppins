@@ -11,6 +11,7 @@
           <string>dvDD_YA</string>
           <string>dvD_NA</string>
           <string>dvD_BHA</string>
+          <string>dvTT_YA</string>
         </array>
         <key>name</key>
         <string>propagateAnchors</string>
