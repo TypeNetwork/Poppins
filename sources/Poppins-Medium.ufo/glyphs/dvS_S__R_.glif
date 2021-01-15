@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_R" format="2">
+  <advance width="385"/>
+  <outline>
+    <contour>
+      <point x="133" y="-16" type="line"/>
+      <point x="247" y="-16" type="line"/>
+      <point x="501" y="246" type="line"/>
+      <point x="398" y="243" type="line"/>
+    </contour>
+    <component base="dvSS"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvSS</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

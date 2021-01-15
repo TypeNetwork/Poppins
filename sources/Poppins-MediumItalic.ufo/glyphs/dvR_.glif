@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvR" format="2">
+  <advance width="533"/>
+  <anchor x="512" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="228" y="-290" type="line"/>
+      <point x="335" y="-290" type="line"/>
+      <point x="245" y="-84" type="line"/>
+      <point x="141" y="-84" type="line"/>
+    </contour>
+    <component base="dvRA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvRA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

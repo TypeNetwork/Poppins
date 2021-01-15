@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex.ss02" format="2">
+  <advance width="573"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="175"/>
+    <component base="a.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>acircumflex</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>acircumflex</string>
+    </dict>
+  </lib>
+</glyph>

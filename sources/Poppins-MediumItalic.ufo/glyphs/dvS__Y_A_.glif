@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvS_YA" format="2">
+  <advance width="1263"/>
+  <outline>
+    <contour>
+      <point x="814" y="97" type="curve" smooth="yes"/>
+      <point x="961" y="97"/>
+      <point x="1056" y="191"/>
+      <point x="1081" y="288" type="curve"/>
+      <point x="1061" y="367" type="line"/>
+      <point x="1042" y="260"/>
+      <point x="954" y="185"/>
+      <point x="845" y="185" type="curve" smooth="yes"/>
+      <point x="731" y="185"/>
+      <point x="668" y="255"/>
+      <point x="690" y="351" type="curve" smooth="yes"/>
+      <point x="691" y="360"/>
+      <point x="695" y="372"/>
+      <point x="699" y="385" type="curve"/>
+      <point x="641" y="354" type="line"/>
+      <point x="667" y="354" type="line" smooth="yes"/>
+      <point x="806" y="354"/>
+      <point x="884" y="425"/>
+      <point x="907" y="553" type="curve" smooth="yes"/>
+      <point x="928" y="671" type="line"/>
+      <point x="825" y="671" type="line"/>
+      <point x="807" y="571" type="line" smooth="yes"/>
+      <point x="787" y="467"/>
+      <point x="725" y="421"/>
+      <point x="614" y="421" type="curve" smooth="yes"/>
+      <point x="601" y="421" type="line"/>
+      <point x="596" y="405"/>
+      <point x="591" y="380"/>
+      <point x="588" y="360" type="curve" smooth="yes"/>
+      <point x="557" y="207"/>
+      <point x="648" y="97"/>
+    </contour>
+    <contour>
+      <point x="995" y="0" type="line"/>
+      <point x="1100" y="0" type="line"/>
+      <point x="1218" y="669" type="line"/>
+      <point x="1113" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="652" type="line"/>
+      <point x="1336" y="652" type="line"/>
+      <point x="1352" y="740" type="line"/>
+      <point x="562" y="740" type="line"/>
+    </contour>
+    <component base="dvS"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvS</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

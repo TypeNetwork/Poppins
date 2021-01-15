@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmE_Reph_Anusvara" format="2">
+  <anchor x="-129" y="740" name="_abvm.e"/>
+  <outline>
+    <contour>
+      <point x="-126" y="737" type="line"/>
+      <point x="-140" y="762"/>
+      <point x="-147" y="791"/>
+      <point x="-147" y="820" type="curve" smooth="yes"/>
+      <point x="-147" y="903"/>
+      <point x="-100" y="946"/>
+      <point x="-30" y="946" type="curve" smooth="yes"/>
+      <point x="30" y="946"/>
+      <point x="69" y="906"/>
+      <point x="73" y="849" type="curve"/>
+      <point x="89" y="849" type="line"/>
+      <point x="85" y="916"/>
+      <point x="40" y="962"/>
+      <point x="-30" y="962" type="curve" smooth="yes"/>
+      <point x="-119" y="962"/>
+      <point x="-161" y="899"/>
+      <point x="-161" y="828" type="curve" smooth="yes"/>
+      <point x="-161" y="803"/>
+      <point x="-156" y="778"/>
+      <point x="-144" y="752" type="curve"/>
+    </contour>
+    <component base="dvmE"/>
+    <component base="dvAnusvara" xOffset="104" yOffset="-45"/>
+  </outline>
+</glyph>

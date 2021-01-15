@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNG_RA" format="2">
+  <advance width="672"/>
+  <anchor x="372" y="-116" name="blwm.virama"/>
+  <anchor x="469" y="740" name="abvm.e"/>
+  <anchor x="378" y="-210" name="blwm.u"/>
+  <outline>
+    <component base="dvNGA"/>
+    <component base="dvRashtrasign" xOffset="570" yOffset="-61"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvNGA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvRashtrasign</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>469</integer>
+          <key>y</key>
+          <integer>656</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

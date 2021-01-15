@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_TT_YA" format="2">
+  <advance width="1659"/>
+  <outline>
+    <contour>
+      <point x="308" y="179" type="curve" smooth="yes"/>
+      <point x="444" y="179"/>
+      <point x="521" y="281"/>
+      <point x="521" y="371" type="curve"/>
+      <point x="459" y="384" type="line"/>
+      <point x="459" y="331"/>
+      <point x="415" y="268"/>
+      <point x="326" y="268" type="curve" smooth="yes"/>
+      <point x="226" y="268"/>
+      <point x="181" y="331"/>
+      <point x="181" y="434" type="curve" smooth="yes"/>
+      <point x="181" y="664" type="line"/>
+      <point x="80" y="664" type="line"/>
+      <point x="80" y="437" type="line" smooth="yes"/>
+      <point x="80" y="284"/>
+      <point x="157" y="179"/>
+    </contour>
+    <contour>
+      <point x="467" y="348" type="line"/>
+      <point x="545" y="371" type="line"/>
+      <point x="179" y="654" type="line"/>
+      <point x="134" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="652" type="line"/>
+      <point x="555" y="652" type="line"/>
+      <point x="555" y="740" type="line"/>
+      <point x="-24" y="740" type="line"/>
+    </contour>
+    <component base="dvTT_YA" xOffset="383"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvTT_YA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

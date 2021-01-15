@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTT" format="2">
+  <advance width="649"/>
+  <anchor x="501" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="340" y="-215" type="line"/>
+      <point x="359" y="-215" type="line"/>
+      <point x="274" y="-37" type="line"/>
+      <point x="256" y="-37" type="line"/>
+    </contour>
+    <component base="dvTTA"/>
+  </outline>
+</glyph>

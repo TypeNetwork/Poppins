@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmAI" format="2">
+  <unicode hex="0948"/>
+  <anchor x="-127" y="740" name="_abvm.e"/>
+  <outline>
+    <contour>
+      <point x="-140" y="737" type="curve"/>
+      <point x="-126" y="737" type="line"/>
+      <point x="-261" y="1003"/>
+      <point x="-308" y="1014"/>
+      <point x="-419" y="1014" type="curve" smooth="yes"/>
+      <point x="-451" y="1014" type="line"/>
+      <point x="-451" y="998" type="line"/>
+      <point x="-419" y="998" type="line" smooth="yes"/>
+      <point x="-313" y="998"/>
+      <point x="-270" y="986"/>
+    </contour>
+    <contour>
+      <point x="-142" y="737" type="curve"/>
+      <point x="-126" y="737" type="line"/>
+      <point x="-261" y="869"/>
+      <point x="-308" y="874"/>
+      <point x="-419" y="874" type="curve" smooth="yes"/>
+      <point x="-451" y="874" type="line"/>
+      <point x="-451" y="858" type="line"/>
+      <point x="-419" y="858" type="line" smooth="yes"/>
+      <point x="-313" y="858"/>
+      <point x="-267" y="852"/>
+    </contour>
+  </outline>
+</glyph>

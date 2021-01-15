@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvEcandra" format="2">
+  <advance width="653"/>
+  <unicode hex="090D"/>
+  <anchor x="510" y="977" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="376" y="808" type="curve" smooth="yes"/>
+      <point x="557" y="808"/>
+      <point x="654" y="899"/>
+      <point x="679" y="1041" type="curve"/>
+      <point x="505" y="1041" type="line"/>
+      <point x="496" y="991"/>
+      <point x="464" y="957"/>
+      <point x="402" y="957" type="curve" smooth="yes"/>
+      <point x="339" y="957"/>
+      <point x="320" y="991"/>
+      <point x="329" y="1041" type="curve"/>
+      <point x="155" y="1041" type="line"/>
+      <point x="130" y="899"/>
+      <point x="194" y="808"/>
+    </contour>
+    <component base="dvE" xOffset="-27"/>
+  </outline>
+</glyph>

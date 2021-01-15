@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvV_R" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="127" y="-55" type="line"/>
+      <point x="239" y="-55" type="line"/>
+      <point x="478" y="160" type="line"/>
+      <point x="370" y="149" type="line"/>
+    </contour>
+    <component base="dvV"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvV</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvY_R" format="2">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="83" y="-61" type="line"/>
+      <point x="211" y="-61" type="line"/>
+      <point x="518" y="165" type="line"/>
+      <point x="420" y="183" type="line"/>
+      <point x="84" y="-55" type="line"/>
+    </contour>
+    <component base="dvY"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvY</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

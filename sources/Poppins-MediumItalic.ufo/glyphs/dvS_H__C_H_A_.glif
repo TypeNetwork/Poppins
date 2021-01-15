@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSH_CHA" format="2">
+  <advance width="1385"/>
+  <anchor x="1265" y="740" name="abvm.e"/>
+  <anchor x="958" y="-70" name="blwm.u"/>
+  <anchor x="968" y="25" name="blwm.virama"/>
+  <outline>
+    <component base="dvSH"/>
+    <component base="dvCHA" xOffset="569"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvSH</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvCHA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

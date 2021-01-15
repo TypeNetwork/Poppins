@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide.ss01" format="2">
+  <advance width="679"/>
+  <outline>
+    <contour>
+      <point x="111" y="412" type="line"/>
+      <point x="93" y="311" type="line"/>
+      <point x="603" y="311" type="line"/>
+      <point x="621" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="215" type="line"/>
+      <point x="244" y="82" type="line"/>
+      <point x="373" y="82" type="line"/>
+      <point x="396" y="215" type="line"/>
+    </contour>
+    <contour>
+      <point x="342" y="640" type="line"/>
+      <point x="319" y="508" type="line"/>
+      <point x="448" y="508" type="line"/>
+      <point x="471" y="640" type="line"/>
+    </contour>
+  </outline>
+</glyph>

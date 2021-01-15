@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_NA" format="2">
+  <advance width="1350"/>
+  <outline>
+    <contour>
+      <point x="510" y="-278" type="line"/>
+      <point x="529" y="-278" type="line"/>
+      <point x="445" y="-100" type="line"/>
+      <point x="427" y="-100" type="line"/>
+    </contour>
+    <component base="dvDA"/>
+    <component base="dvNA" xOffset="590"/>
+  </outline>
+</glyph>

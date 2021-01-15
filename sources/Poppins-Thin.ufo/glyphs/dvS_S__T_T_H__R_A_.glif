@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_TTH_RA" format="2">
+  <advance width="1072"/>
+  <anchor x="749" y="-57" name="blwm.virama"/>
+  <anchor x="740" y="740" name="abvm.e"/>
+  <anchor x="749" y="-147" name="blwm.u"/>
+  <outline>
+    <component base="dvRashtrasign" xOffset="908" yOffset="-10"/>
+    <component base="dvSS_TTHA"/>
+  </outline>
+</glyph>

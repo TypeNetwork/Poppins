@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvO" format="2">
+  <advance width="1131"/>
+  <unicode hex="0913"/>
+  <anchor x="1157" y="740" name="abvm.e"/>
+  <outline>
+    <component base="dvmE" xOffset="1129"/>
+    <component base="dvAA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvmE</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvAA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

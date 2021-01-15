@@ -1,3 +1,0 @@
-release 4
-commit 3
-build 9

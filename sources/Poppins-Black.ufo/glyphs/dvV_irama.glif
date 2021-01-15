@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvVirama" format="2">
+  <unicode hex="094D"/>
+  <anchor x="-66" y="0" name="_blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="-132" y="-289" type="line"/>
+      <point x="75" y="-289" type="line"/>
+      <point x="-64" y="-51" type="line"/>
+      <point x="-266" y="-51" type="line"/>
+    </contour>
+  </outline>
+</glyph>

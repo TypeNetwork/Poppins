@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvB_DA" format="2">
+  <advance width="1001"/>
+  <anchor x="873" y="-44" name="blwm.virama"/>
+  <anchor x="982" y="740" name="abvm.e"/>
+  <anchor x="873" y="-44" name="blwm.u"/>
+  <outline>
+    <component base="dvB"/>
+    <component base="dvDA" xOffset="384"/>
+  </outline>
+</glyph>

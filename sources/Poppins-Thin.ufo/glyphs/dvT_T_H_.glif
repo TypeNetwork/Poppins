@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTTH" format="2">
+  <advance width="680"/>
+  <anchor x="348" y="740" name="abvm.e"/>
+  <outline>
+    <component base="dvTTHA"/>
+    <component base="dvVirama" xOffset="484" yOffset="63"/>
+  </outline>
+</glyph>

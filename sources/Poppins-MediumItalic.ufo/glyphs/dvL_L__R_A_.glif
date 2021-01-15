@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvLL_RA" format="2">
+  <advance width="980"/>
+  <anchor x="676" y="-16" name="blwm.virama"/>
+  <anchor x="819" y="740" name="abvm.e"/>
+  <anchor x="668" y="-108" name="blwm.u"/>
+  <outline>
+    <component base="dvLLA"/>
+    <component base="dvRashtrasign" xOffset="893" yOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvLLA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvRashtrasign</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

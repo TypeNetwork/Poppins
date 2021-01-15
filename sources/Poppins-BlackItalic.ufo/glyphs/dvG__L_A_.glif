@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvG_LA" format="2">
+  <advance width="1520"/>
+  <anchor x="1436" y="740" name="abvm.e"/>
+  <anchor x="1225" y="-89" name="blwm.u"/>
+  <anchor x="1223" y="5" name="blwm.virama"/>
+  <outline>
+    <component base="dvG"/>
+    <component base="dvLA" xOffset="600"/>
+  </outline>
+</glyph>

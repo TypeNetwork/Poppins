@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvII_Anusvara" format="2">
+  <advance width="582"/>
+  <outline>
+    <contour>
+      <point x="444" y="733" type="line"/>
+      <point x="461" y="733" type="line"/>
+      <point x="461" y="822" type="line" smooth="yes"/>
+      <point x="461" y="924"/>
+      <point x="502" y="978"/>
+      <point x="582" y="978" type="curve" smooth="yes"/>
+      <point x="653" y="978"/>
+      <point x="697" y="926"/>
+      <point x="697" y="858" type="curve"/>
+      <point x="713" y="858" type="line"/>
+      <point x="713" y="936"/>
+      <point x="663" y="994"/>
+      <point x="582" y="994" type="curve" smooth="yes"/>
+      <point x="495" y="994"/>
+      <point x="444" y="937"/>
+      <point x="444" y="823" type="curve" smooth="yes"/>
+    </contour>
+    <component base="dvI"/>
+    <component base="dvAnusvara" xOffset="718" yOffset="-34"/>
+  </outline>
+</glyph>

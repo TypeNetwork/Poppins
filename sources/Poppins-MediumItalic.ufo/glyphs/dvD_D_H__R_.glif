@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvDDH_R" format="2">
+  <advance width="644"/>
+  <anchor x="554" y="740" name="abvm.e"/>
+  <outline>
+    <contour>
+      <point x="299" y="-363" type="line"/>
+      <point x="406" y="-363" type="line"/>
+      <point x="316" y="-157" type="line"/>
+      <point x="211" y="-157" type="line"/>
+    </contour>
+    <component base="dvDDH_RA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDDH_RA</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

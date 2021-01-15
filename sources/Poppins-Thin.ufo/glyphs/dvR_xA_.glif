@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvRxA" format="2">
+  <advance width="539"/>
+  <unicode hex="0931"/>
+  <anchor x="424" y="740" name="abvm.e"/>
+  <outline>
+    <component base="dvRA"/>
+    <component base="dvNukta" xOffset="549" yOffset="-67"/>
+  </outline>
+</glyph>

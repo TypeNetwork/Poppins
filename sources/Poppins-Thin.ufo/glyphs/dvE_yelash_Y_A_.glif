@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvEyelash_YA" format="2">
+  <advance width="871"/>
+  <outline>
+    <contour>
+      <point x="253" y="439" type="curve"/>
+      <point x="255" y="455" type="line"/>
+      <point x="159" y="455"/>
+      <point x="47" y="492"/>
+      <point x="47" y="615" type="curve"/>
+      <point x="31" y="615" type="line"/>
+      <point x="31" y="483"/>
+      <point x="151" y="439"/>
+    </contour>
+    <contour>
+      <point x="-35" y="724" type="line"/>
+      <point x="297" y="724" type="line"/>
+      <point x="297" y="740" type="line"/>
+      <point x="-35" y="740" type="line"/>
+    </contour>
+    <component base="dvYA" xOffset="151"/>
+  </outline>
+</glyph>

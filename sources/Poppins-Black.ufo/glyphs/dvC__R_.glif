@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvC_R" format="2">
+  <advance width="434"/>
+  <outline>
+    <contour>
+      <point x="238" y="-46" type="line"/>
+      <point x="456" y="-46" type="line"/>
+      <point x="622" y="185" type="line"/>
+      <point x="424" y="179" type="line"/>
+    </contour>
+    <component base="dvC"/>
+  </outline>
+</glyph>

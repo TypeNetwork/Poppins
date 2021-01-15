@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvL_THA" format="2">
+  <outline>
+    <contour>
+      <point x="24" y="571" type="line"/>
+      <point x="893" y="571" type="line"/>
+      <point x="943" y="740" type="line"/>
+      <point x="54" y="740" type="line"/>
+    </contour>
+  </outline>
+</glyph>

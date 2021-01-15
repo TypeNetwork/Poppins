@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvB_R" format="2">
+  <advance width="439"/>
+  <outline>
+    <contour>
+      <point x="488" y="180" type="line"/>
+      <point x="474" y="187" type="line"/>
+      <point x="209" y="-46" type="line"/>
+      <point x="232" y="-46" type="line"/>
+    </contour>
+    <component base="dvB"/>
+  </outline>
+</glyph>

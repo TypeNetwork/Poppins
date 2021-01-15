@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvKHx_TA" format="2">
+  <advance width="1365"/>
+  <outline>
+    <component base="dvNukta" xOffset="672" yOffset="-30"/>
+    <component base="dvKH_TA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvKH_TA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

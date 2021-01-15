@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNN_DDHA" format="2">
+  <advance width="1263"/>
+  <anchor x="1171" y="740" name="abvm.e"/>
+  <anchor x="978" y="-119" name="blwm.u"/>
+  <anchor x="982" y="-19" name="blwm.virama"/>
+  <outline>
+    <component base="dvNN"/>
+    <component base="dvDDHA" xOffset="597"/>
+  </outline>
+</glyph>

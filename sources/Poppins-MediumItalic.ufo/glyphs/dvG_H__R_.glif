@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvGH_R" format="2">
+  <advance width="419"/>
+  <outline>
+    <contour>
+      <point x="113" y="-52" type="line"/>
+      <point x="228" y="-52" type="line"/>
+      <point x="493" y="186" type="line"/>
+      <point x="388" y="182" type="line"/>
+    </contour>
+    <component base="dvGH"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvGH</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

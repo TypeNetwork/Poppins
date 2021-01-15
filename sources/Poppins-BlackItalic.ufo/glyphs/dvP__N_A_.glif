@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvP_NA" format="2">
+  <advance width="1197"/>
+  <outline>
+    <contour>
+      <point x="544" y="398" type="curve"/>
+      <point x="406" y="365" type="line"/>
+      <point x="387" y="332"/>
+      <point x="366" y="307"/>
+      <point x="328" y="307" type="curve" smooth="yes"/>
+      <point x="271" y="307"/>
+      <point x="257" y="349"/>
+      <point x="266" y="401" type="curve" smooth="yes"/>
+      <point x="300" y="592" type="line"/>
+      <point x="96" y="592" type="line"/>
+      <point x="62" y="401" type="line" smooth="yes"/>
+      <point x="34" y="253"/>
+      <point x="115" y="136"/>
+      <point x="281" y="136" type="curve" smooth="yes"/>
+      <point x="431" y="136"/>
+      <point x="519" y="249"/>
+    </contour>
+    <contour>
+      <point x="24" y="571" type="line"/>
+      <point x="624" y="571" type="line"/>
+      <point x="654" y="740" type="line"/>
+      <point x="54" y="740" type="line"/>
+    </contour>
+    <component base="dvNA" xOffset="353"/>
+  </outline>
+</glyph>

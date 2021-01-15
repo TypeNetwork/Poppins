@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvGH_R" format="2">
+  <outline>
+    <contour>
+      <point x="283" y="116" type="curve" smooth="yes"/>
+      <point x="436" y="116"/>
+      <point x="565" y="220"/>
+      <point x="590" y="364" type="curve"/>
+      <point x="575" y="364" type="line"/>
+      <point x="551" y="227"/>
+      <point x="423" y="132"/>
+      <point x="286" y="132" type="curve" smooth="yes"/>
+      <point x="165" y="132"/>
+      <point x="81" y="185"/>
+      <point x="102" y="299" type="curve" smooth="yes"/>
+      <point x="117" y="382"/>
+      <point x="185" y="451"/>
+      <point x="327" y="451" type="curve" smooth="yes"/>
+      <point x="381" y="451" type="line"/>
+      <point x="384" y="467" type="line"/>
+      <point x="330" y="467" type="line" smooth="yes"/>
+      <point x="204" y="467"/>
+      <point x="162" y="521"/>
+      <point x="180" y="622" type="curve" smooth="yes"/>
+      <point x="199" y="731" type="line"/>
+      <point x="182" y="731" type="line"/>
+      <point x="163" y="622" type="line" smooth="yes"/>
+      <point x="144" y="513"/>
+      <point x="197" y="468"/>
+      <point x="269" y="460" type="curve"/>
+      <point x="269" y="458" type="line"/>
+      <point x="184" y="451"/>
+      <point x="102" y="395"/>
+      <point x="85" y="299" type="curve" smooth="yes"/>
+      <point x="64" y="178"/>
+      <point x="146" y="116"/>
+    </contour>
+    <contour>
+      <point x="27" y="724" type="line"/>
+      <point x="654" y="724" type="line"/>
+      <point x="656" y="740" type="line"/>
+      <point x="29" y="740" type="line"/>
+    </contour>
+  </outline>
+</glyph>

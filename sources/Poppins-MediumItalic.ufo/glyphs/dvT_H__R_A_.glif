@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTH_RA" format="2">
+  <advance width="773"/>
+  <outline>
+    <contour>
+      <point x="49" y="-66" type="line"/>
+      <point x="49" y="-72" type="line"/>
+      <point x="179" y="-72" type="line"/>
+      <point x="485" y="152" type="line"/>
+      <point x="385" y="172" type="line"/>
+    </contour>
+    <component base="dvTHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvTHA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde.ss02" format="2">
+  <advance width="573"/>
+  <outline>
+    <component base="tildecomb" xOffset="203"/>
+    <component base="a.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>atilde</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>atilde</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvCH_R" format="2">
+  <advance width="818"/>
+  <outline>
+    <component base="dvRashtrasign" xOffset="682" yOffset="-20"/>
+    <component base="dvCH"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvRashtrasign</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvCH</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvP_R" format="2">
+  <advance width="378"/>
+  <outline>
+    <contour>
+      <point x="122" y="1" type="line"/>
+      <point x="145" y="1" type="line"/>
+      <point x="441" y="277" type="line"/>
+      <point x="430" y="287" type="line"/>
+    </contour>
+    <component base="dvP"/>
+  </outline>
+</glyph>

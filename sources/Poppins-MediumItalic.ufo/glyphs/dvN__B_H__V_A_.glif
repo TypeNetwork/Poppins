@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvN_BH_VA" format="2">
+  <advance width="1703"/>
+  <outline>
+    <contour>
+      <point x="227" y="59" type="curve" smooth="yes"/>
+      <point x="337" y="59"/>
+      <point x="432" y="128"/>
+      <point x="453" y="246" type="curve" smooth="yes"/>
+      <point x="469" y="335"/>
+      <point x="424" y="395"/>
+      <point x="378" y="413" type="curve"/>
+      <point x="352" y="370" type="line"/>
+      <point x="765" y="370" type="line"/>
+      <point x="878" y="458" type="line"/>
+      <point x="299" y="458" type="line" smooth="yes"/>
+      <point x="172" y="458"/>
+      <point x="70" y="391"/>
+      <point x="47" y="264" type="curve" smooth="yes"/>
+      <point x="26" y="145"/>
+      <point x="105" y="59"/>
+    </contour>
+    <contour>
+      <point x="239" y="148" type="curve" smooth="yes"/>
+      <point x="170" y="148"/>
+      <point x="131" y="193"/>
+      <point x="142" y="258" type="curve" smooth="yes"/>
+      <point x="155" y="324"/>
+      <point x="210" y="370"/>
+      <point x="278" y="370" type="curve" smooth="yes"/>
+      <point x="344" y="370"/>
+      <point x="383" y="324"/>
+      <point x="371" y="259" type="curve" smooth="yes"/>
+      <point x="360" y="197"/>
+      <point x="304" y="148"/>
+    </contour>
+    <contour>
+      <point x="26" y="652" type="line"/>
+      <point x="772" y="652" type="line"/>
+      <point x="806" y="740" type="line"/>
+      <point x="41" y="740" type="line"/>
+    </contour>
+    <component base="dvBH_VA" xOffset="513"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvBH_VA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

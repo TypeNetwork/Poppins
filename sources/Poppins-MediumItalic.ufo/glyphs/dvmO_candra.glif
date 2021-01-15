@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmOcandra" format="2">
+  <advance width="302"/>
+  <unicode hex="0949"/>
+  <outline>
+    <component base="dvmEcandra" xOffset="302"/>
+    <component base="dvmAA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvmEcandra</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvmAA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

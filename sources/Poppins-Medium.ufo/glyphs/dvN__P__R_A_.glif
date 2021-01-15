@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvN_P_RA" format="2">
+  <advance width="1155"/>
+  <outline>
+    <contour>
+      <point x="268" y="103" type="curve" smooth="yes"/>
+      <point x="379" y="103"/>
+      <point x="467" y="171"/>
+      <point x="467" y="289" type="curve" smooth="yes"/>
+      <point x="467" y="379"/>
+      <point x="414" y="436"/>
+      <point x="363" y="457" type="curve"/>
+      <point x="344" y="414" type="line"/>
+      <point x="602" y="414" type="line"/>
+      <point x="602" y="502" type="line"/>
+      <point x="277" y="502" type="line" smooth="yes"/>
+      <point x="155" y="502"/>
+      <point x="59" y="431"/>
+      <point x="59" y="302" type="curve" smooth="yes"/>
+      <point x="59" y="179"/>
+      <point x="152" y="103"/>
+    </contour>
+    <contour>
+      <point x="270" y="192" type="curve" smooth="yes"/>
+      <point x="201" y="192"/>
+      <point x="154" y="237"/>
+      <point x="154" y="302" type="curve" smooth="yes"/>
+      <point x="154" y="368"/>
+      <point x="202" y="414"/>
+      <point x="270" y="414" type="curve" smooth="yes"/>
+      <point x="336" y="414"/>
+      <point x="383" y="367"/>
+      <point x="383" y="303" type="curve" smooth="yes"/>
+      <point x="383" y="238"/>
+      <point x="336" y="192"/>
+    </contour>
+    <contour>
+      <point x="-24" y="652" type="line"/>
+      <point x="823" y="652" type="line"/>
+      <point x="823" y="740" type="line"/>
+      <point x="-24" y="740" type="line"/>
+    </contour>
+    <component base="dvP_RA" xOffset="494"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvP_RA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

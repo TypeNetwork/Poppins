@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvN_T_SA" format="2">
+  <advance width="1725"/>
+  <outline>
+    <contour>
+      <point x="222" y="152" type="curve" smooth="yes"/>
+      <point x="328" y="152"/>
+      <point x="414" y="225"/>
+      <point x="433" y="328" type="curve" smooth="yes"/>
+      <point x="449" y="417"/>
+      <point x="401" y="480"/>
+      <point x="336" y="492" type="curve"/>
+      <point x="333" y="488" type="line"/>
+      <point x="828" y="488" type="line"/>
+      <point x="847" y="503" type="line"/>
+      <point x="289" y="503" type="line" smooth="yes"/>
+      <point x="173" y="503"/>
+      <point x="87" y="432"/>
+      <point x="69" y="326" type="curve" smooth="yes"/>
+      <point x="52" y="225"/>
+      <point x="114" y="152"/>
+    </contour>
+    <contour>
+      <point x="225" y="168" type="curve" smooth="yes"/>
+      <point x="125" y="168"/>
+      <point x="69" y="233"/>
+      <point x="86" y="326" type="curve" smooth="yes"/>
+      <point x="104" y="422"/>
+      <point x="183" y="487"/>
+      <point x="281" y="487" type="curve" smooth="yes"/>
+      <point x="376" y="487"/>
+      <point x="434" y="421"/>
+      <point x="416" y="328" type="curve" smooth="yes"/>
+      <point x="399" y="239"/>
+      <point x="320" y="168"/>
+    </contour>
+    <contour>
+      <point x="27" y="724" type="line"/>
+      <point x="705" y="724" type="line"/>
+      <point x="708" y="740" type="line"/>
+      <point x="30" y="740" type="line"/>
+    </contour>
+    <component base="dvT_SA" xOffset="494"/>
+  </outline>
+</glyph>

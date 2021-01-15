@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_TTH_YA" format="2">
+  <advance width="1632"/>
+  <outline>
+    <contour>
+      <point x="306" y="231" type="curve" smooth="yes"/>
+      <point x="429" y="231"/>
+      <point x="497" y="312"/>
+      <point x="497" y="376" type="curve"/>
+      <point x="483" y="376" type="line"/>
+      <point x="483" y="325"/>
+      <point x="421" y="247"/>
+      <point x="307" y="247" type="curve" smooth="yes"/>
+      <point x="176" y="247"/>
+      <point x="117" y="330"/>
+      <point x="117" y="469" type="curve" smooth="yes"/>
+      <point x="117" y="728" type="line"/>
+      <point x="100" y="728" type="line"/>
+      <point x="100" y="469" type="line" smooth="yes"/>
+      <point x="100" y="320"/>
+      <point x="168" y="231"/>
+    </contour>
+    <contour>
+      <point x="488" y="366" type="line"/>
+      <point x="500" y="376" type="line"/>
+      <point x="115" y="726" type="line"/>
+      <point x="106" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="-35" y="724" type="line"/>
+      <point x="500" y="724" type="line"/>
+      <point x="500" y="740" type="line"/>
+      <point x="-35" y="740" type="line"/>
+    </contour>
+    <component base="dvTTH_YA" xOffset="392"/>
+  </outline>
+</glyph>

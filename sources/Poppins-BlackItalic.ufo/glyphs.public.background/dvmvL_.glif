@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmvL" format="2">
+  <outline>
+    <contour>
+      <point x="-334" y="0" type="line"/>
+      <point x="-130" y="0" type="line"/>
+      <point x="-30" y="571" type="line"/>
+      <point x="46" y="571" type="line"/>
+      <point x="76" y="740" type="line"/>
+      <point x="-281" y="740" type="line"/>
+      <point x="-311" y="571" type="line"/>
+      <point x="-234" y="571" type="line"/>
+    </contour>
+  </outline>
+</glyph>

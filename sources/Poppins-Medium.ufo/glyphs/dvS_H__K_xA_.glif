@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSH_KxA" format="2">
+  <advance width="1517"/>
+  <anchor x="1081" y="740" name="abvm.e"/>
+  <anchor x="1081" y="-104" name="blwm.u"/>
+  <anchor x="1081" y="0" name="blwm.virama"/>
+  <outline>
+    <component base="dvSH_KA"/>
+    <component base="dvNukta" xOffset="1128" yOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvSH_KA</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dvNukta</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

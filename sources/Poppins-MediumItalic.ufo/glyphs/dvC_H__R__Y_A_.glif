@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvCH_R_YA" format="2">
+  <advance width="1358"/>
+  <outline>
+    <contour>
+      <point x="105" y="-117" type="line"/>
+      <point x="213" y="-117" type="line"/>
+      <point x="377" y="39" type="line"/>
+      <point x="348" y="39" type="line"/>
+      <point x="457" y="-117" type="line"/>
+      <point x="566" y="-117" type="line"/>
+      <point x="436" y="62" type="line"/>
+      <point x="297" y="62" type="line"/>
+    </contour>
+    <component base="dvCH_YA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvCH_YA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

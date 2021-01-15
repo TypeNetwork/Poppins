@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvB_YA" format="2">
+  <advance width="1127"/>
+  <outline>
+    <contour>
+      <point x="701" y="63" type="curve" smooth="yes"/>
+      <point x="864" y="63"/>
+      <point x="947" y="159"/>
+      <point x="947" y="287" type="curve"/>
+      <point x="880" y="375" type="line"/>
+      <point x="880" y="295"/>
+      <point x="837" y="232"/>
+      <point x="746" y="232" type="curve" smooth="yes"/>
+      <point x="650" y="232"/>
+      <point x="620" y="290"/>
+      <point x="620" y="351" type="curve"/>
+      <point x="427" y="343" type="line"/>
+      <point x="427" y="173"/>
+      <point x="526" y="63"/>
+    </contour>
+    <contour>
+      <point x="533" y="281" type="line"/>
+      <point x="575" y="281" type="line" smooth="yes"/>
+      <point x="727" y="281"/>
+      <point x="769" y="417"/>
+      <point x="769" y="502" type="curve" smooth="yes"/>
+      <point x="769" y="601" type="line"/>
+      <point x="567" y="601" type="line"/>
+      <point x="567" y="540" type="line" smooth="yes"/>
+      <point x="567" y="474"/>
+      <point x="553" y="414"/>
+      <point x="439" y="414" type="curve"/>
+      <point x="435" y="414" type="line"/>
+    </contour>
+    <contour>
+      <point x="880" y="0" type="line"/>
+      <point x="1084" y="0" type="line"/>
+      <point x="1084" y="601" type="line"/>
+      <point x="880" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="571" type="line"/>
+      <point x="1160" y="571" type="line"/>
+      <point x="1160" y="740" type="line"/>
+      <point x="369" y="740" type="line"/>
+    </contour>
+    <component base="dvB"/>
+  </outline>
+</glyph>

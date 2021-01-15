@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvL_R" format="2">
+  <advance width="886"/>
+  <outline>
+    <contour>
+      <point x="546" y="-313" type="line"/>
+      <point x="565" y="-313" type="line"/>
+      <point x="481" y="-135" type="line"/>
+      <point x="463" y="-135" type="line"/>
+    </contour>
+    <component base="dvL_RA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

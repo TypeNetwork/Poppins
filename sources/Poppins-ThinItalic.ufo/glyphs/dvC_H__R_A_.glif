@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvCH_RA" format="2">
+  <advance width="808"/>
+  <anchor x="662" y="740" name="abvm.e"/>
+  <anchor x="329" y="-167" name="blwm.u"/>
+  <anchor x="346" y="-77" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="144" y="-136" type="line"/>
+      <point x="167" y="-136" type="line"/>
+      <point x="377" y="39" type="line"/>
+      <point x="365" y="39" type="line"/>
+      <point x="514" y="-136" type="line"/>
+      <point x="537" y="-136" type="line"/>
+      <point x="383" y="43" type="line"/>
+      <point x="360" y="43" type="line"/>
+    </contour>
+    <component base="dvCHA"/>
+  </outline>
+</glyph>

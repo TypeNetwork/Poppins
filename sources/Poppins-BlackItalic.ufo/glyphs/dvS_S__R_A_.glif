@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvSS_RA" format="2">
+  <advance width="713"/>
+  <outline>
+    <contour>
+      <point x="-20" y="-35" type="line"/>
+      <point x="198" y="-35" type="line"/>
+      <point x="444" y="204" type="line"/>
+      <point x="238" y="193" type="line"/>
+    </contour>
+    <component base="dvSSA"/>
+  </outline>
+</glyph>

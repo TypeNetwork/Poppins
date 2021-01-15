@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvJH" format="2">
+  <outline>
+    <contour>
+      <point x="687" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="704" y="724" type="line"/>
+      <point x="866" y="724" type="line"/>
+      <point x="866" y="740" type="line"/>
+      <point x="525" y="740" type="line"/>
+      <point x="525" y="724" type="line"/>
+      <point x="687" y="724" type="line"/>
+    </contour>
+  </outline>
+</glyph>

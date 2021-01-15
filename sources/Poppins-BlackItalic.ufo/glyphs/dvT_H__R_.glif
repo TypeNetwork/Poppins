@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvTH_R" format="2">
+  <advance width="477"/>
+  <outline>
+    <contour>
+      <point x="46" y="-71" type="line"/>
+      <point x="44" y="-82" type="line"/>
+      <point x="295" y="-82" type="line"/>
+      <point x="590" y="155" type="line"/>
+      <point x="339" y="145" type="line"/>
+    </contour>
+    <component base="dvTH"/>
+  </outline>
+</glyph>

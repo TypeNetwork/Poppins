@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvT_K_SSA" format="2">
+  <advance width="1226"/>
+  <outline>
+    <contour>
+      <point x="325" y="2" type="curve" smooth="yes"/>
+      <point x="361" y="2" type="line"/>
+      <point x="361" y="85" type="line"/>
+      <point x="340" y="85" type="line"/>
+      <point x="229" y="85"/>
+      <point x="171" y="146"/>
+      <point x="171" y="246" type="curve" smooth="yes"/>
+      <point x="171" y="351"/>
+      <point x="232" y="406"/>
+      <point x="324" y="406" type="curve" smooth="yes"/>
+      <point x="436" y="406"/>
+      <point x="476" y="314"/>
+      <point x="476" y="230" type="curve"/>
+      <point x="476" y="198" type="line"/>
+      <point x="536" y="198" type="line"/>
+      <point x="536" y="230" type="line"/>
+      <point x="535" y="355"/>
+      <point x="475" y="496"/>
+      <point x="305" y="496" type="curve" smooth="yes"/>
+      <point x="169" y="496"/>
+      <point x="65" y="414"/>
+      <point x="65" y="248" type="curve" smooth="yes"/>
+      <point x="65" y="81"/>
+      <point x="174" y="2"/>
+    </contour>
+    <contour>
+      <point x="-24" y="652" type="line"/>
+      <point x="637" y="652" type="line"/>
+      <point x="648" y="740" type="line"/>
+      <point x="-24" y="740" type="line"/>
+    </contour>
+    <component base="dvK_SSA" xOffset="408"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvK_SSA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

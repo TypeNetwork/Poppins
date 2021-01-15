@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_RA" format="2">
+  <advance width="611"/>
+  <anchor x="566" y="740" name="abvm.e"/>
+  <anchor x="466" y="-39" name="blwm.u"/>
+  <anchor x="469" y="-21" name="blwm.virama"/>
+  <outline>
+    <contour>
+      <point x="32" y="-62" type="line"/>
+      <point x="147" y="-62" type="line"/>
+      <point x="375" y="137" type="line"/>
+      <point x="301" y="167" type="line"/>
+    </contour>
+    <component base="dvDA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dvDA</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

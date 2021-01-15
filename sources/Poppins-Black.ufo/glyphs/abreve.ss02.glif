@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve.ss02" format="2">
+  <advance width="643"/>
+  <outline>
+    <component base="brevecomb" xOffset="149"/>
+    <component base="a.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>abreve</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>abreve</string>
+    </dict>
+  </lib>
+</glyph>
